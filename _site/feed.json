@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/06/14/for-the-moment.html",
+	      	
+			"content_html": "<p>For the moment, this project is out of my hands, and since I cannot do anything more to affect its outcome at this stage, I’m going to sit back with coffee and a book and relax a bit.</p>\n\n<p>(Maybe if I say this out loud I’ll be able to stop stressing…)</p>\n",
+			"date_published": "2018-06-14T11:38:36-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/14/for-the-moment.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/06/13/quamquam-is-my.html",
 	      	
 			"content_html": "<p>“quamquam” is my new favorite conjunction</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>☕️☕️+📚</p>\n",
 			"date_published": "2018-05-19T07:57:02-07:00",
 			"url": "http://micro.alexclaman.com/2018/05/19/145702.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/18/that-feeling-when.html",
-	      	
-			"content_html": "<p>That feeling when you’ve stayed up late to finish an outstanding book and it’s 1:30 in the morning and you have a busy day tomorrow but you just need to sit with all of the thoughts and feelings that the book brought up</p>\n",
-			"date_published": "2018-05-17T23:28:42-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/17/that-feeling-when.html"
 		}
 		
 	]
