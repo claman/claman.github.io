@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/06/19/i-guess-ive.html",
+	      	
+			"content_html": "<p>I guess I’ve reached the point in the day where my brain is going into standby mode</p>\n",
+			"date_published": "2018-06-19T14:21:59-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/19/i-guess-ive.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/06/19/nothing-is-definite.html",
+	      	
+			"content_html": "<p>Nothing is definite, but it is possible that I have figured out my housing situation for next year!</p>\n",
+			"date_published": "2018-06-19T08:58:57-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/19/nothing-is-definite.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/06/18/halfway-though-class.html",
 	      	
 			"content_html": "<p>Halfway though class my brain convinced itself that I had not locked my car, so I just sprinted back and I had, in fact, locked it just like I usually do.</p>\n\n<p>Thanks brain.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Well, time to file Deadpool 2 under “films that simultaneously extremely violent and surprisingly heartwarming”.</p>\n",
 			"date_published": "2018-05-23T17:33:43-07:00",
 			"url": "http://micro.alexclaman.com/2018/05/23/well-time-to.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/23/time-for-deadpool.html",
-	      	
-			"content_html": "<p>Time for Deadpool 2 🎥</p>\n",
-			"date_published": "2018-05-23T12:57:59-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/23/time-for-deadpool.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/22/accidentally-took-the.html",
-	      	
-			"content_html": "<p>Accidentally took the dog on a 3 mile hike this morning and found this old car in the middle of the woods</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/5a750798f1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.alexclaman.com/uploads/2018/134d1a3667.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-05-22T14:43:39-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/22/accidentally-took-the.html"
 		}
 		
 	]
