@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/06/20/its-really-only.html",
+	      	
+			"content_html": "<p>It’s really only now, partway through Wednesday afternoon, that I’m feeling prepared to start the week.</p>\n",
+			"date_published": "2018-06-20T14:22:00-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/20/its-really-only.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/06/19/i-guess-ive.html",
 	      	
 			"content_html": "<p>I guess I’ve reached the point in the day where my brain is going into standby mode</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Solo 🎥</p>\n",
 			"date_published": "2018-05-24T18:00:40-07:00",
 			"url": "http://micro.alexclaman.com/2018/05/24/solo.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/24/well-time-to.html",
-	      	
-			"content_html": "<p>Well, time to file Deadpool 2 under “films that simultaneously extremely violent and surprisingly heartwarming”.</p>\n",
-			"date_published": "2018-05-23T17:33:43-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/23/well-time-to.html"
 		}
 		
 	]
