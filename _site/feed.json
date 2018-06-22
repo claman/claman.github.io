@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/06/22/not-even-and.html",
+	      	
+			"content_html": "<p>Not even 9 and I’m already sweating. Hello summer!</p>\n",
+			"date_published": "2018-06-22T08:55:16-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/22/not-even-and.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/06/20/its-really-only.html",
 	      	
 			"content_html": "<p>It’s really only now, partway through Wednesday afternoon, that I’m feeling prepared to start the week.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>This morning I saw a squirrel (almost drove over it), an otter, a flock of six turkey, and a herd of seven deer. Nature out in force.</p>\n",
 			"date_published": "2018-05-27T10:07:13-07:00",
 			"url": "http://micro.alexclaman.com/2018/05/27/this-morning-i.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/25/solo.html",
-	      	
-			"content_html": "<p>Solo 🎥</p>\n",
-			"date_published": "2018-05-24T18:00:40-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/24/solo.html"
 		}
 		
 	]
