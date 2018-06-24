@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/06/24/im-three-weeks.html",
+	      	
+			"content_html": "<p>I’m three weeks into learning Latin, and need to recover Ancient Greek in time for the start of the fall semester. This is, therefore, clearly the best possible time for me to randomly want to learn Old Norse.</p>\n",
+			"date_published": "2018-06-23T17:35:11-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/23/im-three-weeks.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/06/23/turns-out-bladerunner.html",
+	      	
+			"content_html": "<p>Turns out Bladerunner 2049 is on HBOGo, so I know what I’m watching tonight</p>\n",
+			"date_published": "2018-06-23T09:23:05-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/23/turns-out-bladerunner.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/06/22/not-even-and.html",
 	      	
 			"content_html": "<p>Not even 9 and I’m already sweating. Hello summer!</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Taking myself out to ice cream (accompanied by my current book)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/8f4f89b251.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-29T12:23:07-07:00",
 			"url": "http://micro.alexclaman.com/2018/05/29/taking-myself-out.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/27/personal-confession-i.html",
-	      	
-			"content_html": "<p>Personal confession: I find babies and small children utterly bemusing. I find them cute from afar, but do not particularly enjoy interacting with them myself.</p>\n",
-			"date_published": "2018-05-27T14:20:55-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/27/personal-confession-i.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/27/this-morning-i.html",
-	      	
-			"content_html": "<p>This morning I saw a squirrel (almost drove over it), an otter, a flock of six turkey, and a herd of seven deer. Nature out in force.</p>\n",
-			"date_published": "2018-05-27T10:07:13-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/27/this-morning-i.html"
 		}
 		
 	]
