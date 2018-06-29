@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/06/29/my-impulse-control.html",
+	      	
+			"content_html": "<p>My impulse control is much worse when I’m tired, so I should probably stop browsing for books on Amazon</p>\n",
+			"date_published": "2018-06-28T21:36:49-07:00",
+			"url": "http://micro.alexclaman.com/2018/06/28/my-impulse-control.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/06/24/im-three-weeks.html",
 	      	
 			"content_html": "<p>I’m three weeks into learning Latin, and need to recover Ancient Greek in time for the start of the fall semester. This is, therefore, clearly the best possible time for me to randomly want to learn Old Norse.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>One of these days I’ll sit down and work through all of the links that I save to read later…someday…eventually</p>\n",
 			"date_published": "2018-05-31T17:15:42-07:00",
 			"url": "http://micro.alexclaman.com/2018/05/31/one-of-these.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/05/29/taking-myself-out.html",
-	      	
-			"content_html": "<p>Taking myself out to ice cream (accompanied by my current book)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/8f4f89b251.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-29T12:23:07-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/29/taking-myself-out.html"
 		}
 		
 	]
