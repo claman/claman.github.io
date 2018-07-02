@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/02/ive-been-awake.html",
+	      	
+			"content_html": "<p>I’ve been awake for about two hours but I still feel half-asleep</p>\n",
+			"date_published": "2018-07-02T08:41:39-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/02/ive-been-awake.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/01/off-to-see.html",
 	      	
 			"content_html": "<p>Off to see Ocean’s 8</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Sitting in a coffee shop and reading archaeological theory is a normal thing to do on one’s lunch break, right?</p>\n",
 			"date_published": "2018-06-06T12:19:19-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/06/sitting-in-a.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/05/190014.html",
-	      	
-			"content_html": "<p>Today is a definite improvement on yesterday</p>\n",
-			"date_published": "2018-06-05T12:00:14-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/05/190014.html"
 		}
 		
 	]
