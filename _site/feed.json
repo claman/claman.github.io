@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/06/took-a-power.html",
+	      	
+			"content_html": "<p>Took a power nap and chugged a double espresso so I am VERY awake right now</p>\n",
+			"date_published": "2018-07-06T13:10:49-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/06/took-a-power.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/02/ive-been-awake.html",
 	      	
 			"content_html": "<p>I’ve been awake for about two hours but I still feel half-asleep</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’m all hopped up on caffeine and stress</p>\n",
 			"date_published": "2018-06-08T13:01:22-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/08/im-all-hopped.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/06/sitting-in-a.html",
-	      	
-			"content_html": "<p>Sitting in a coffee shop and reading archaeological theory is a normal thing to do on one’s lunch break, right?</p>\n",
-			"date_published": "2018-06-06T12:19:19-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/06/sitting-in-a.html"
 		}
 		
 	]
