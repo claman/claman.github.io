@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/10/strolled-into-class.html",
+	      	
+			"content_html": "<p>Strolled into class a cool 40 minutes late, but I made it</p>\n",
+			"date_published": "2018-07-10T09:54:49-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/10/strolled-into-class.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/07/10/well-i-have.html",
+	      	
+			"content_html": "<p>Well, I have about 16 minutes until class starts, so if I want to be on time I’ll have to compress a 25 minute train ride and a 10 minute walk. Seems doable.</p>\n",
+			"date_published": "2018-07-10T08:54:50-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/10/well-i-have.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/09/shoutout-to-these.html",
 	      	
 			"content_html": "<p>Shoutout to these two dudes by me on the bus making the ride bearable by singing snippets of famous songs</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Killing Eve is somehow hilarious and deeply chilling, sometimes at the same time.</p>\n",
 			"date_published": "2018-06-09T14:01:31-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/09/killing-eve-is.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/09/perhaps-sleep.html",
-	      	
-			"content_html": "<p>Perhaps sleep</p>\n",
-			"date_published": "2018-06-08T23:59:19-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/08/perhaps-sleep.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/09/my-new-hobby.html",
-	      	
-			"content_html": "<p>My new hobby is watching people watching people watching squirrels</p>\n",
-			"date_published": "2018-06-08T17:12:31-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/08/my-new-hobby.html"
 		}
 		
 	]
