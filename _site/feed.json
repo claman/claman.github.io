@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/17/ii-think-i.html",
+	      	
+			"content_html": "<p>I…I think I just got a voicemail from a number station?? It just said a string of numbers, repeated the string once, and then ended.</p>\n\n<p>I am deeply confused and vaguely concerned.</p>\n",
+			"date_published": "2018-07-17T12:52:49-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/17/ii-think-i.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/14/just-saw-sorry.html",
 	      	
 			"content_html": "<p>Just saw Sorry To Bother You. It was.…an experience (in mostly a good way!). Just takes a <em>very</em> hard turn partway through that I absolutely did not see coming</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>For the moment, this project is out of my hands, and since I cannot do anything more to affect its outcome at this stage, I’m going to sit back with coffee and a book and relax a bit.</p>\n\n<p>(Maybe if I say this out loud I’ll be able to stop stressing…)</p>\n",
 			"date_published": "2018-06-14T11:38:36-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/14/for-the-moment.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/13/quamquam-is-my.html",
-	      	
-			"content_html": "<p>“quamquam” is my new favorite conjunction</p>\n",
-			"date_published": "2018-06-12T18:45:27-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/12/quamquam-is-my.html"
 		}
 		
 	]
