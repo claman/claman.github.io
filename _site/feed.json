@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/21/your-friendly-neighborhood.html",
+	      	
+			"content_html": "<p>Your friendly neighborhood archaeology nerd checking in with a good link: <a href=\"https://belowthesurface.amsterdam/en\">belowthesurface.amsterdam/en</a></p>\n",
+			"date_published": "2018-07-21T08:54:25-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/21/your-friendly-neighborhood.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/19/that-sinking-feeling.html",
 	      	
 			"content_html": "<p>That sinking feeling you get when you walk into your morning class and discover that you have a quiz in the afternoon</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>2 for 2 on crying at movies this weekend</p>\n",
 			"date_published": "2018-06-17T15:47:29-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/17/for-on-crying.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/17/im-definitely-going.html",
-	      	
-			"content_html": "<p>I’m definitely going to focus on improving my sleep schedule this week. Feeling better after two good nights.</p>\n",
-			"date_published": "2018-06-17T06:55:23-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/17/im-definitely-going.html"
 		}
 		
 	]
