@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/25/sunrise-with-egrets.html",
+	      	
+			"content_html": "<p>Sunrise with egrets</p>\n\n<p>(From this morning’s run)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/fcc728e8f0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-25T08:29:35-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/25/sunrise-with-egrets.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/07/23/i-only-just.html",
+	      	
+			"content_html": "<p>I only just realized that all I ate for breakfast this morning was a banana and a bit of yogurt, which probably goes a long way toward explaining why I’ve felt so out of sorts today. Currently on my way to remedy the situation.</p>\n",
+			"date_published": "2018-07-23T12:10:17-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/23/i-only-just.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/23/really-looking-forward.html",
 	      	
 			"content_html": "<p>Really looking forward to getting these mouth stitches out tomorrow.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>It’s really only now, partway through Wednesday afternoon, that I’m feeling prepared to start the week.</p>\n",
 			"date_published": "2018-06-20T14:22:00-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/20/its-really-only.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/19/i-guess-ive.html",
-	      	
-			"content_html": "<p>I guess I’ve reached the point in the day where my brain is going into standby mode</p>\n",
-			"date_published": "2018-06-19T14:21:59-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/19/i-guess-ive.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/19/nothing-is-definite.html",
-	      	
-			"content_html": "<p>Nothing is definite, but it is possible that I have figured out my housing situation for next year!</p>\n",
-			"date_published": "2018-06-19T08:58:57-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/19/nothing-is-definite.html"
 		}
 		
 	]
