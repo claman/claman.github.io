@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/26/could-we-all.html",
+	      	
+			"content_html": "<p>Could we all collectively agree that today is Friday and the next two days are both Saturday?</p>\n",
+			"date_published": "2018-07-26T10:11:47-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/26/could-we-all.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/25/sunrise-with-egrets.html",
 	      	
 			"content_html": "<p>Sunrise with egrets</p>\n\n<p>(From this morning’s run)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/fcc728e8f0.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Not even 9 and I’m already sweating. Hello summer!</p>\n",
 			"date_published": "2018-06-22T08:55:16-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/22/not-even-and.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/20/its-really-only.html",
-	      	
-			"content_html": "<p>It’s really only now, partway through Wednesday afternoon, that I’m feeling prepared to start the week.</p>\n",
-			"date_published": "2018-06-20T14:22:00-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/20/its-really-only.html"
 		}
 		
 	]
