@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/07/28/todays-used-bookstore.html",
+	      	
+			"content_html": "<p>Today’s used bookstore find</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/4d36171cc4.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-28T14:56:05-07:00",
+			"url": "http://micro.alexclaman.com/2018/07/28/todays-used-bookstore.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/28/sitting-outside-a.html",
 	      	
 			"content_html": "<p>Sitting outside a doughnut shop, sipping coffee, and watching the world go by. It’s very peaceful.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I’m three weeks into learning Latin, and need to recover Ancient Greek in time for the start of the fall semester. This is, therefore, clearly the best possible time for me to randomly want to learn Old Norse.</p>\n",
 			"date_published": "2018-06-23T17:35:11-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/23/im-three-weeks.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/23/turns-out-bladerunner.html",
-	      	
-			"content_html": "<p>Turns out Bladerunner 2049 is on HBOGo, so I know what I’m watching tonight</p>\n",
-			"date_published": "2018-06-23T09:23:05-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/23/turns-out-bladerunner.html"
 		}
 		
 	]
