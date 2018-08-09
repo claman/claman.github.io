@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/09/hopefully-that-power.html",
+	      	
+			"content_text": "Hopefully that power nap + espresso is going to be...",
+			"date_published": "2018-08-09T12:55:35-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/09/hopefully-that-power.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/05/im-gonna-miss.html",
+	      	
+			"content_text": "I’m gonna miss this guy when I’m in Texas\n\n\n",
+			"date_published": "2018-08-05T12:53:57-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/05/im-gonna-miss.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/02/time-to-call.html",
+	      	
+			"content_text": "Time to call utility companies\n",
+			"date_published": "2018-08-02T12:01:55-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/02/time-to-call.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/07/31/that-warm-fuzzy.html",
 	      	
 			"content_text": "That warm fuzzy feeling when you get the notification that...",
