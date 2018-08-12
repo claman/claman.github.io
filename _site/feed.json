@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/12/t-days-to.html",
+	      	
+			"content_html": "<p>T-2 days to departure</p>\n",
+			"date_published": "2018-08-12T09:26:54-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/12/t-days-to.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/09/hopefully-that-power.html",
 	      	
 			"content_html": "<p>Hopefully that power nap + espresso is going to be enough to get me through the afternoon</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Symphony time!</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/ae1f3a961f.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-06-29T19:57:08-07:00",
 			"url": "http://micro.alexclaman.com/2018/06/29/symphony-time.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/06/30/i-see-whats.html",
-	      	
-			"content_html": "<p>I see what’s going on here</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/1c235ba472.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-29T19:37:06-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/29/i-see-whats.html"
 		}
 		
 	]
