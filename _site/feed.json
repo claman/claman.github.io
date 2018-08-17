@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/16/i-received-a.html",
+	      	
+			"content_html": "<p>I received a slightly frosty welcome from one of my new roommates</p>\n\n<p>(Image of Nyx, a small black cat perched atop some cabinets)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/d956aa5d7a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-16T14:43:05-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/16/i-received-a.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/15/greetings-from-just.html",
+	      	
+			"content_html": "<p>Greetings from just outside Albuquerque</p>\n",
+			"date_published": "2018-08-15T14:42:47-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/15/greetings-from-just.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/15/reporting-to-you.html",
 	      	
 			"content_html": "<p>Reporting to you live from Kingman, AZ</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Well, I have about 16 minutes until class starts, so if I want to be on time I’ll have to compress a 25 minute train ride and a 10 minute walk. Seems doable.</p>\n",
 			"date_published": "2018-07-10T08:54:50-07:00",
 			"url": "http://micro.alexclaman.com/2018/07/10/well-i-have.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/09/shoutout-to-these.html",
-	      	
-			"content_html": "<p>Shoutout to these two dudes by me on the bus making the ride bearable by singing snippets of famous songs</p>\n",
-			"date_published": "2018-07-09T16:57:23-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/09/shoutout-to-these.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/06/took-a-power.html",
-	      	
-			"content_html": "<p>Took a power nap and chugged a double espresso so I am VERY awake right now</p>\n",
-			"date_published": "2018-07-06T13:10:49-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/06/took-a-power.html"
 		}
 		
 	]
