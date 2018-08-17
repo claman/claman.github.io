@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/16/i-received-a.html",
+	      	
+			"content_text": "I received a slightly frosty welcome from one of my...",
+			"date_published": "2018-08-16T14:43:05-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/16/i-received-a.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/15/greetings-from-just.html",
+	      	
+			"content_text": "Greetings from just outside Albuquerque\n",
+			"date_published": "2018-08-15T14:42:47-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/15/greetings-from-just.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/15/reporting-to-you.html",
 	      	
 			"content_text": "Reporting to you live from Kingman, AZ\n",
