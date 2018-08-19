@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/19/134503.html",
+	      	
+			"content_html": "<p>Clouds this morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/20bfc5c6ed.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-19T06:45:03-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/19/134503.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/16/i-received-a.html",
 	      	
 			"content_html": "<p>I received a slightly frosty welcome from one of my new roommates</p>\n\n<p>(Image of Nyx, a small black cat perched atop some cabinets)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/d956aa5d7a.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Strolled into class a cool 40 minutes late, but I made it</p>\n",
 			"date_published": "2018-07-10T09:54:49-07:00",
 			"url": "http://micro.alexclaman.com/2018/07/10/strolled-into-class.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/10/well-i-have.html",
-	      	
-			"content_html": "<p>Well, I have about 16 minutes until class starts, so if I want to be on time I’ll have to compress a 25 minute train ride and a 10 minute walk. Seems doable.</p>\n",
-			"date_published": "2018-07-10T08:54:50-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/10/well-i-have.html"
 		}
 		
 	]
