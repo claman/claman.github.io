@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/20/getting-set-up.html",
+	      	
+			"content_html": "<p>Getting set up to watch Live and Let Die with the new roommates. It’s been a little while since I’ve seen a Bond film.</p>\n",
+			"date_published": "2018-08-19T18:19:37-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/19/getting-set-up.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/19/134503.html",
 	      	
 			"content_html": "<p>Clouds this morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/20bfc5c6ed.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I should not have eaten those two slices of cake</p>\n",
 			"date_published": "2018-07-12T20:54:35-07:00",
 			"url": "http://micro.alexclaman.com/2018/07/12/i-should-not.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/10/strolled-into-class.html",
-	      	
-			"content_html": "<p>Strolled into class a cool 40 minutes late, but I made it</p>\n",
-			"date_published": "2018-07-10T09:54:49-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/10/strolled-into-class.html"
 		}
 		
 	]
