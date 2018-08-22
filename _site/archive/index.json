@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/22/it-is-about.html",
+	      	
+			"content_text": "It is about 7:50am, the coffee is just starting to...",
+			"date_published": "2018-08-22T05:54:21-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/22/it-is-about.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/21/this-was-possibly.html",
+	      	
+			"content_text": "This was possibly the most carefully I have ever driven...",
+			"date_published": "2018-08-21T13:12:26-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/21/this-was-possibly.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/21/enjoying-my-last.html",
 	      	
 			"content_text": "Enjoying my last day of summer…out of the 9 total...",
