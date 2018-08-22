@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/22/it-is-about.html",
+	      	
+			"content_html": "<p>It is about 7:50am, the coffee is <em>just</em> starting to hit me, and for some unknown reason someone put on smooth jazz. It is too early for this.</p>\n",
+			"date_published": "2018-08-22T05:54:21-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/22/it-is-about.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/21/this-was-possibly.html",
+	      	
+			"content_html": "<p>This was possibly the most carefully I have ever driven</p>\n\n<p>(Picture of a mattress and box spring tied to the top of my car)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/26ccb7707c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-21T13:12:26-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/21/this-was-possibly.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/21/enjoying-my-last.html",
 	      	
 			"content_html": "<p>Enjoying my last day of summer…out of the 9 total I was able to eke out…</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>I…I think I just got a voicemail from a number station?? It just said a string of numbers, repeated the string once, and then ended.</p>\n\n<p>I am deeply confused and vaguely concerned.</p>\n",
 			"date_published": "2018-07-17T12:52:49-07:00",
 			"url": "http://micro.alexclaman.com/2018/07/17/ii-think-i.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/14/just-saw-sorry.html",
-	      	
-			"content_html": "<p>Just saw Sorry To Bother You. It was.…an experience (in mostly a good way!). Just takes a <em>very</em> hard turn partway through that I absolutely did not see coming</p>\n",
-			"date_published": "2018-07-14T15:55:55-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/14/just-saw-sorry.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/13/dealing-with-housing.html",
-	      	
-			"content_html": "<p>Dealing with housing is stressful, especially when you’re trying to manage people in multiple time zones, coordinate with the landlord, and deal with money transfers.</p>\n\n<p>Long story very short: I now definitively have a place to move into next month!</p>\n",
-			"date_published": "2018-07-13T10:48:36-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/13/dealing-with-housing.html"
 		}
 		
 	]
