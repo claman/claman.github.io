@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/21/enjoying-my-last.html",
+	      	
+			"content_html": "<p>Enjoying my last day of summer…out of the 9 total I was able to eke out…</p>\n",
+			"date_published": "2018-08-21T06:07:02-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/21/enjoying-my-last.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/20/getting-set-up.html",
 	      	
 			"content_html": "<p>Getting set up to watch Live and Let Die with the new roommates. It’s been a little while since I’ve seen a Bond film.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Dealing with housing is stressful, especially when you’re trying to manage people in multiple time zones, coordinate with the landlord, and deal with money transfers.</p>\n\n<p>Long story very short: I now definitively have a place to move into next month!</p>\n",
 			"date_published": "2018-07-13T10:48:36-07:00",
 			"url": "http://micro.alexclaman.com/2018/07/13/dealing-with-housing.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/13/i-should-not.html",
-	      	
-			"content_html": "<p>I should not have eaten those two slices of cake</p>\n",
-			"date_published": "2018-07-12T20:54:35-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/12/i-should-not.html"
 		}
 		
 	]
