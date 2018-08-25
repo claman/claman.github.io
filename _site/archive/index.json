@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/23/another-day-another.html",
+	      	
+			"content_text": "Another day, another orientation session. At least today is only...",
+			"date_published": "2018-08-23T07:08:43-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/23/another-day-another.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/22/it-is-about.html",
 	      	
 			"content_text": "It is about 7:50am, the coffee is just starting to...",
