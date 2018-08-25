@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/23/another-day-another.html",
+	      	
+			"content_html": "<p>Another day, another orientation session. At least today is only five hours.</p>\n",
+			"date_published": "2018-08-23T07:08:43-07:00",
+			"url": "http://micro.alexclaman.com/2018/08/23/another-day-another.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/22/it-is-about.html",
 	      	
 			"content_html": "<p>It is about 7:50am, the coffee is <em>just</em> starting to hit me, and for some unknown reason someone put on smooth jazz. It is too early for this.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>That sinking feeling you get when you walk into your morning class and discover that you have a quiz in the afternoon</p>\n",
 			"date_published": "2018-07-19T12:05:29-07:00",
 			"url": "http://micro.alexclaman.com/2018/07/19/that-sinking-feeling.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/17/ii-think-i.html",
-	      	
-			"content_html": "<p>I…I think I just got a voicemail from a number station?? It just said a string of numbers, repeated the string once, and then ended.</p>\n\n<p>I am deeply confused and vaguely concerned.</p>\n",
-			"date_published": "2018-07-17T12:52:49-07:00",
-			"url": "http://micro.alexclaman.com/2018/07/17/ii-think-i.html"
 		}
 		
 	]
