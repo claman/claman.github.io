@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-14 07:18:13 -0700
+date: 2017-06-14 09:18:13 -0500
 guid: http://aclaman.micro.blog/2017/06/14/its-pretty-even.html
 ---
 It's pretty even when it's raining
