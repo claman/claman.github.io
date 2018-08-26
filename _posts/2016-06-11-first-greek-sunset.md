@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-06-11 11:49:42 -0700
+date: 2016-06-11 13:49:42 -0500
 guid: http://aclaman.micro.blog/2016/06/11/first-greek-sunset.html
 ---
 First Greek sunset of the summer
