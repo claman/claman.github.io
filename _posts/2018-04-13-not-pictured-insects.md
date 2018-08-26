@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-13 12:27:03 -0700
+date: 2018-04-13 14:27:03 -0500
 guid: http://aclaman.micro.blog/2018/04/13/not-pictured-insects.html
 ---
 Not pictured: insects chirping, birdsong, babbling brooks, my stupidly massive grin at how gorgeous today is
