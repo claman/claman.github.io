@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-17 09:30:26 -0700
+date: 2018-04-17 11:30:26 -0500
 guid: http://aclaman.micro.blog/2018/04/17/so-far-space.html
 ---
 So far *Space Opera* is every bit as hilarious as it’s billed to be 📚
