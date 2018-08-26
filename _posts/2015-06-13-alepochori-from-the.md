@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-13 06:52:37 -0700
+date: 2015-06-13 08:52:37 -0500
 guid: http://aclaman.micro.blog/2015/06/13/alepochori-from-the.html
 ---
 Alepochori from the dig house
