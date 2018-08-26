@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-11 13:20:01 -0700
+date: 2015-06-11 15:20:01 -0500
 guid: http://aclaman.micro.blog/2015/06/11/bayeux-cathedral.html
 ---
 Bayeux Cathedral
