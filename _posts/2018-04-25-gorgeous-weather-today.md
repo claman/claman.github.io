@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-25 10:12:59 -0700
+date: 2018-04-25 12:12:59 -0500
 guid: http://aclaman.micro.blog/2018/04/25/gorgeous-weather-today.html
 ---
 Gorgeous weather today!
