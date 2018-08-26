@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-03 07:51:22 -0700
+date: 2018-05-03 09:51:22 -0500
 guid: http://aclaman.micro.blog/2018/05/03/sleepy-puppy.html
 ---
 Sleepy puppy
