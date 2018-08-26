@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-08 18:02:40 -0700
+date: 2015-06-08 20:02:40 -0500
 guid: http://aclaman.micro.blog/2015/06/09/lazy-evening.html
 ---
 Lazy evening
