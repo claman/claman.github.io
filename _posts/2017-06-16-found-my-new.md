@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-16 08:32:08 -0700
+date: 2017-06-16 10:32:08 -0500
 guid: http://aclaman.micro.blog/2017/06/16/found-my-new.html
 ---
 Found my new car
