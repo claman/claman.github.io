@@ -6,10 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/24/i-am-now.html",
+	      	
+			"content_text": "I am now officially oriented.\n",
+			"date_published": "2018-08-24T14:14:01-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/24/i-am-now.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/23/one-thing-i.html",
+	      	
+			"content_text": "One thing I had not missed about being in school:...",
+			"date_published": "2018-08-23T12:12:26-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/23/one-thing-i.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/23/another-day-another.html",
 	      	
 			"content_text": "Another day, another orientation session. At least today is only...",
-			"date_published": "2018-08-23T07:08:43-07:00",
+			"date_published": "2018-08-23T09:08:43-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/23/another-day-another.html"
 		},
 		
@@ -17,7 +33,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/22/it-is-about.html",
 	      	
 			"content_text": "It is about 7:50am, the coffee is just starting to...",
-			"date_published": "2018-08-22T05:54:21-07:00",
+			"date_published": "2018-08-22T07:54:21-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/22/it-is-about.html"
 		},
 		
@@ -25,7 +41,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/21/this-was-possibly.html",
 	      	
 			"content_text": "This was possibly the most carefully I have ever driven...",
-			"date_published": "2018-08-21T13:12:26-07:00",
+			"date_published": "2018-08-21T15:12:26-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/21/this-was-possibly.html"
 		},
 		
@@ -33,7 +49,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/21/enjoying-my-last.html",
 	      	
 			"content_text": "Enjoying my last day of summer…out of the 9 total...",
-			"date_published": "2018-08-21T06:07:02-07:00",
+			"date_published": "2018-08-21T08:07:02-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/21/enjoying-my-last.html"
 		},
 		
@@ -41,7 +57,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/20/getting-set-up.html",
 	      	
 			"content_text": "Getting set up to watch Live and Let Die with...",
-			"date_published": "2018-08-19T18:19:37-07:00",
+			"date_published": "2018-08-19T20:19:37-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/19/getting-set-up.html"
 		},
 		
@@ -49,7 +65,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/19/134503.html",
 	      	
 			"content_text": "Clouds this morning\n\n\n",
-			"date_published": "2018-08-19T06:45:03-07:00",
+			"date_published": "2018-08-19T08:45:03-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/19/134503.html"
 		},
 		
@@ -57,7 +73,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/16/i-received-a.html",
 	      	
 			"content_text": "I received a slightly frosty welcome from one of my...",
-			"date_published": "2018-08-16T14:43:05-07:00",
+			"date_published": "2018-08-16T16:43:05-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/16/i-received-a.html"
 		},
 		
@@ -65,7 +81,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/15/greetings-from-just.html",
 	      	
 			"content_text": "Greetings from just outside Albuquerque\n",
-			"date_published": "2018-08-15T14:42:47-07:00",
+			"date_published": "2018-08-15T16:42:47-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/15/greetings-from-just.html"
 		},
 		
@@ -73,7 +89,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/15/reporting-to-you.html",
 	      	
 			"content_text": "Reporting to you live from Kingman, AZ\n",
-			"date_published": "2018-08-14T18:32:05-07:00",
+			"date_published": "2018-08-14T20:32:05-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/14/reporting-to-you.html"
 		},
 		
@@ -81,7 +97,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/14/guess-im-awake.html",
 	      	
 			"content_text": "Guess I’m awake now.\n",
-			"date_published": "2018-08-14T05:55:12-07:00",
+			"date_published": "2018-08-14T07:55:12-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/14/guess-im-awake.html"
 		},
 		
@@ -89,7 +105,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/13/everyone-please-go.html",
 	      	
 			"content_text": "EVERYONE PLEASE GO SEE BlackKkKlansman BECAUSE WOW IS IT AN...",
-			"date_published": "2018-08-12T18:12:42-07:00",
+			"date_published": "2018-08-12T20:12:42-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/12/everyone-please-go.html"
 		},
 		
@@ -97,7 +113,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/12/t-days-to.html",
 	      	
 			"content_text": "T-2 days to departure\n",
-			"date_published": "2018-08-12T09:26:54-07:00",
+			"date_published": "2018-08-12T11:26:54-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/12/t-days-to.html"
 		},
 		
@@ -105,7 +121,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/09/hopefully-that-power.html",
 	      	
 			"content_text": "Hopefully that power nap + espresso is going to be...",
-			"date_published": "2018-08-09T12:55:35-07:00",
+			"date_published": "2018-08-09T14:55:35-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/09/hopefully-that-power.html"
 		},
 		
@@ -113,7 +129,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/05/im-gonna-miss.html",
 	      	
 			"content_text": "I’m gonna miss this guy when I’m in Texas\n\n\n",
-			"date_published": "2018-08-05T12:53:57-07:00",
+			"date_published": "2018-08-05T14:53:57-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/05/im-gonna-miss.html"
 		},
 		
@@ -121,7 +137,7 @@
 			"id": "http://aclaman.micro.blog/2018/08/02/time-to-call.html",
 	      	
 			"content_text": "Time to call utility companies\n",
-			"date_published": "2018-08-02T12:01:55-07:00",
+			"date_published": "2018-08-02T14:01:55-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/02/time-to-call.html"
 		},
 		
@@ -129,7 +145,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/31/that-warm-fuzzy.html",
 	      	
 			"content_text": "That warm fuzzy feeling when you get the notification that...",
-			"date_published": "2018-07-31T07:22:45-07:00",
+			"date_published": "2018-07-31T09:22:45-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/31/that-warm-fuzzy.html"
 		},
 		
@@ -137,7 +153,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/28/todays-used-bookstore.html",
 	      	
 			"content_text": "Today’s used bookstore find\n\n\n",
-			"date_published": "2018-07-28T14:56:05-07:00",
+			"date_published": "2018-07-28T16:56:05-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/28/todays-used-bookstore.html"
 		},
 		
@@ -145,7 +161,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/28/sitting-outside-a.html",
 	      	
 			"content_text": "Sitting outside a doughnut shop, sipping coffee, and watching the...",
-			"date_published": "2018-07-28T09:21:57-07:00",
+			"date_published": "2018-07-28T11:21:57-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/28/sitting-outside-a.html"
 		},
 		
@@ -153,7 +169,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/26/could-we-all.html",
 	      	
 			"content_text": "Could we all collectively agree that today is Friday and...",
-			"date_published": "2018-07-26T10:11:47-07:00",
+			"date_published": "2018-07-26T12:11:47-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/26/could-we-all.html"
 		},
 		
@@ -161,7 +177,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/25/sunrise-with-egrets.html",
 	      	
 			"content_text": "Sunrise with egrets\n\n(From this morning’s run)\n\n\n",
-			"date_published": "2018-07-25T08:29:35-07:00",
+			"date_published": "2018-07-25T10:29:35-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/25/sunrise-with-egrets.html"
 		},
 		
@@ -169,7 +185,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/23/i-only-just.html",
 	      	
 			"content_text": "I only just realized that all I ate for breakfast...",
-			"date_published": "2018-07-23T12:10:17-07:00",
+			"date_published": "2018-07-23T14:10:17-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/23/i-only-just.html"
 		},
 		
@@ -177,7 +193,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/23/really-looking-forward.html",
 	      	
 			"content_text": "Really looking forward to getting these mouth stitches out tomorrow....",
-			"date_published": "2018-07-23T09:29:45-07:00",
+			"date_published": "2018-07-23T11:29:45-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/23/really-looking-forward.html"
 		},
 		
@@ -185,7 +201,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/22/starting-off-my.html",
 	      	
 			"content_text": "Starting off my morning with a cup of coffee and...",
-			"date_published": "2018-07-22T07:49:06-07:00",
+			"date_published": "2018-07-22T09:49:06-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/22/starting-off-my.html"
 		},
 		
@@ -193,7 +209,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/21/your-friendly-neighborhood.html",
 	      	
 			"content_text": "Your friendly neighborhood archaeology nerd checking in with a good...",
-			"date_published": "2018-07-21T08:54:25-07:00",
+			"date_published": "2018-07-21T10:54:25-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/21/your-friendly-neighborhood.html"
 		},
 		
@@ -201,7 +217,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/19/that-sinking-feeling.html",
 	      	
 			"content_text": "That sinking feeling you get when you walk into your...",
-			"date_published": "2018-07-19T12:05:29-07:00",
+			"date_published": "2018-07-19T14:05:29-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/19/that-sinking-feeling.html"
 		},
 		
@@ -209,7 +225,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/17/ii-think-i.html",
 	      	
 			"content_text": "I…I think I just got a voicemail from a number...",
-			"date_published": "2018-07-17T12:52:49-07:00",
+			"date_published": "2018-07-17T14:52:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/17/ii-think-i.html"
 		},
 		
@@ -217,7 +233,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/14/just-saw-sorry.html",
 	      	
 			"content_text": "Just saw Sorry To Bother You. It was.…an experience (in...",
-			"date_published": "2018-07-14T15:55:55-07:00",
+			"date_published": "2018-07-14T17:55:55-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/14/just-saw-sorry.html"
 		},
 		
@@ -225,7 +241,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/13/dealing-with-housing.html",
 	      	
 			"content_text": "Dealing with housing is stressful, especially when you’re trying to...",
-			"date_published": "2018-07-13T10:48:36-07:00",
+			"date_published": "2018-07-13T12:48:36-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/13/dealing-with-housing.html"
 		},
 		
@@ -233,7 +249,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/13/i-should-not.html",
 	      	
 			"content_text": "I should not have eaten those two slices of cake...",
-			"date_published": "2018-07-12T20:54:35-07:00",
+			"date_published": "2018-07-12T22:54:35-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/12/i-should-not.html"
 		},
 		
@@ -241,7 +257,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/10/strolled-into-class.html",
 	      	
 			"content_text": "Strolled into class a cool 40 minutes late, but I...",
-			"date_published": "2018-07-10T09:54:49-07:00",
+			"date_published": "2018-07-10T11:54:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/10/strolled-into-class.html"
 		},
 		
@@ -249,7 +265,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/10/well-i-have.html",
 	      	
 			"content_text": "Well, I have about 16 minutes until class starts, so...",
-			"date_published": "2018-07-10T08:54:50-07:00",
+			"date_published": "2018-07-10T10:54:50-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/10/well-i-have.html"
 		},
 		
@@ -257,7 +273,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/09/shoutout-to-these.html",
 	      	
 			"content_text": "Shoutout to these two dudes by me on the bus...",
-			"date_published": "2018-07-09T16:57:23-07:00",
+			"date_published": "2018-07-09T18:57:23-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/09/shoutout-to-these.html"
 		},
 		
@@ -265,7 +281,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/06/took-a-power.html",
 	      	
 			"content_text": "Took a power nap and chugged a double espresso so...",
-			"date_published": "2018-07-06T13:10:49-07:00",
+			"date_published": "2018-07-06T15:10:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/06/took-a-power.html"
 		},
 		
@@ -273,7 +289,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/02/ive-been-awake.html",
 	      	
 			"content_text": "I’ve been awake for about two hours but I still...",
-			"date_published": "2018-07-02T08:41:39-07:00",
+			"date_published": "2018-07-02T10:41:39-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/02/ive-been-awake.html"
 		},
 		
@@ -281,7 +297,7 @@
 			"id": "http://aclaman.micro.blog/2018/07/01/off-to-see.html",
 	      	
 			"content_text": "Off to see Ocean’s 8\n",
-			"date_published": "2018-07-01T12:38:12-07:00",
+			"date_published": "2018-07-01T14:38:12-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/01/off-to-see.html"
 		},
 		
@@ -289,7 +305,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/30/symphony-time.html",
 	      	
 			"content_text": "Symphony time!\n\n\n",
-			"date_published": "2018-06-29T19:57:08-07:00",
+			"date_published": "2018-06-29T21:57:08-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/29/symphony-time.html"
 		},
 		
@@ -297,7 +313,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/30/i-see-whats.html",
 	      	
 			"content_text": "I see what’s going on here\n\n\n",
-			"date_published": "2018-06-29T19:37:06-07:00",
+			"date_published": "2018-06-29T21:37:06-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/29/i-see-whats.html"
 		},
 		
@@ -305,7 +321,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/29/posting-from-beneath.html",
 	      	
 			"content_text": "Posting from beneath the bay\n",
-			"date_published": "2018-06-29T08:27:46-07:00",
+			"date_published": "2018-06-29T10:27:46-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/29/posting-from-beneath.html"
 		},
 		
@@ -313,7 +329,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/29/time-to-start.html",
 	      	
 			"content_text": "Time to start the day\n",
-			"date_published": "2018-06-29T05:31:59-07:00",
+			"date_published": "2018-06-29T07:31:59-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/29/time-to-start.html"
 		},
 		
@@ -321,7 +337,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/29/my-impulse-control.html",
 	      	
 			"content_text": "My impulse control is much worse when I’m tired, so...",
-			"date_published": "2018-06-28T21:36:49-07:00",
+			"date_published": "2018-06-28T23:36:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/28/my-impulse-control.html"
 		},
 		
@@ -329,7 +345,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/24/im-three-weeks.html",
 	      	
 			"content_text": "I’m three weeks into learning Latin, and need to recover...",
-			"date_published": "2018-06-23T17:35:11-07:00",
+			"date_published": "2018-06-23T19:35:11-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/23/im-three-weeks.html"
 		},
 		
@@ -337,7 +353,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/23/turns-out-bladerunner.html",
 	      	
 			"content_text": "Turns out Bladerunner 2049 is on HBOGo, so I know...",
-			"date_published": "2018-06-23T09:23:05-07:00",
+			"date_published": "2018-06-23T11:23:05-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/23/turns-out-bladerunner.html"
 		},
 		
@@ -345,7 +361,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/22/not-even-and.html",
 	      	
 			"content_text": "Not even 9 and I’m already sweating. Hello summer!\n",
-			"date_published": "2018-06-22T08:55:16-07:00",
+			"date_published": "2018-06-22T10:55:16-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/22/not-even-and.html"
 		},
 		
@@ -353,7 +369,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/20/its-really-only.html",
 	      	
 			"content_text": "It’s really only now, partway through Wednesday afternoon, that I’m...",
-			"date_published": "2018-06-20T14:22:00-07:00",
+			"date_published": "2018-06-20T16:22:00-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/20/its-really-only.html"
 		},
 		
@@ -361,7 +377,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/19/i-guess-ive.html",
 	      	
 			"content_text": "I guess I’ve reached the point in the day where...",
-			"date_published": "2018-06-19T14:21:59-07:00",
+			"date_published": "2018-06-19T16:21:59-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/19/i-guess-ive.html"
 		},
 		
@@ -369,7 +385,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/19/nothing-is-definite.html",
 	      	
 			"content_text": "Nothing is definite, but it is possible that I have...",
-			"date_published": "2018-06-19T08:58:57-07:00",
+			"date_published": "2018-06-19T10:58:57-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/19/nothing-is-definite.html"
 		},
 		
@@ -377,7 +393,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/18/halfway-though-class.html",
 	      	
 			"content_text": "Halfway though class my brain convinced itself that I had...",
-			"date_published": "2018-06-18T10:35:58-07:00",
+			"date_published": "2018-06-18T12:35:58-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/18/halfway-though-class.html"
 		},
 		
@@ -385,7 +401,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/17/for-on-crying.html",
 	      	
 			"content_text": "2 for 2 on crying at movies this weekend\n",
-			"date_published": "2018-06-17T15:47:29-07:00",
+			"date_published": "2018-06-17T17:47:29-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/17/for-on-crying.html"
 		},
 		
@@ -393,7 +409,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/17/im-definitely-going.html",
 	      	
 			"content_text": "I’m definitely going to focus on improving my sleep schedule...",
-			"date_published": "2018-06-17T06:55:23-07:00",
+			"date_published": "2018-06-17T08:55:23-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/17/im-definitely-going.html"
 		},
 		
@@ -401,7 +417,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/14/for-the-moment.html",
 	      	
 			"content_text": "For the moment, this project is out of my hands,...",
-			"date_published": "2018-06-14T11:38:36-07:00",
+			"date_published": "2018-06-14T13:38:36-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/14/for-the-moment.html"
 		},
 		
@@ -409,7 +425,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/13/quamquam-is-my.html",
 	      	
 			"content_text": "“quamquam” is my new favorite conjunction\n",
-			"date_published": "2018-06-12T18:45:27-07:00",
+			"date_published": "2018-06-12T20:45:27-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/12/quamquam-is-my.html"
 		},
 		
@@ -417,15 +433,15 @@
 			"id": "http://aclaman.micro.blog/2018/06/12/my-favorite-thing.html",
 	      	
 			"content_text": "My favorite thing about both the Orphan Black and Sense8...",
-			"date_published": "2018-06-11T22:47:00-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/11/my-favorite-thing.html"
+			"date_published": "2018-06-12T00:47:00-05:00",
+			"url": "http://micro.alexclaman.com/2018/06/12/my-favorite-thing.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/06/11/time-for-sf.html",
 	      	
 			"content_text": "Time for SF in SF! (science fiction in San Francisco)...",
-			"date_published": "2018-06-10T18:45:43-07:00",
+			"date_published": "2018-06-10T20:45:43-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/10/time-for-sf.html"
 		},
 		
@@ -433,7 +449,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/09/killing-eve-is.html",
 	      	
 			"content_text": "Killing Eve is somehow hilarious and deeply chilling, sometimes at...",
-			"date_published": "2018-06-09T14:01:31-07:00",
+			"date_published": "2018-06-09T16:01:31-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/09/killing-eve-is.html"
 		},
 		
@@ -441,15 +457,15 @@
 			"id": "http://aclaman.micro.blog/2018/06/09/perhaps-sleep.html",
 	      	
 			"content_text": "Perhaps sleep\n",
-			"date_published": "2018-06-08T23:59:19-07:00",
-			"url": "http://micro.alexclaman.com/2018/06/08/perhaps-sleep.html"
+			"date_published": "2018-06-09T01:59:19-05:00",
+			"url": "http://micro.alexclaman.com/2018/06/09/perhaps-sleep.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/06/09/my-new-hobby.html",
 	      	
 			"content_text": "My new hobby is watching people watching people watching squirrels...",
-			"date_published": "2018-06-08T17:12:31-07:00",
+			"date_published": "2018-06-08T19:12:31-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/08/my-new-hobby.html"
 		},
 		
@@ -457,7 +473,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/08/im-all-hopped.html",
 	      	
 			"content_text": "I’m all hopped up on caffeine and stress\n",
-			"date_published": "2018-06-08T13:01:22-07:00",
+			"date_published": "2018-06-08T15:01:22-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/08/im-all-hopped.html"
 		},
 		
@@ -465,7 +481,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/06/sitting-in-a.html",
 	      	
 			"content_text": "Sitting in a coffee shop and reading archaeological theory is...",
-			"date_published": "2018-06-06T12:19:19-07:00",
+			"date_published": "2018-06-06T14:19:19-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/06/sitting-in-a.html"
 		},
 		
@@ -473,7 +489,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/05/190014.html",
 	      	
 			"content_text": "Today is a definite improvement on yesterday\n",
-			"date_published": "2018-06-05T12:00:14-07:00",
+			"date_published": "2018-06-05T14:00:14-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/05/190014.html"
 		},
 		
@@ -481,7 +497,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/04/good-to-see.html",
 	      	
 			"content_text": "Good to see that the janitorial staff knows what’s going...",
-			"date_published": "2018-06-04T12:48:41-07:00",
+			"date_published": "2018-06-04T14:48:41-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/04/good-to-see.html"
 		},
 		
@@ -489,7 +505,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/04/heres-hoping-today.html",
 	      	
 			"content_text": "Here’s hoping today gets better from here\n",
-			"date_published": "2018-06-04T09:38:48-07:00",
+			"date_published": "2018-06-04T11:38:48-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/04/heres-hoping-today.html"
 		},
 		
@@ -497,7 +513,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/04/today-is-the.html",
 	      	
 			"content_text": "Today is the first day of a summer course that...",
-			"date_published": "2018-06-04T09:28:16-07:00",
+			"date_published": "2018-06-04T11:28:16-05:00",
 			"url": "http://micro.alexclaman.com/2018/06/04/today-is-the.html"
 		},
 		
@@ -505,7 +521,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/01/it-is-rather.html",
 	      	
 			"content_text": "It is rather interesting (and mildly terrifying) to be in...",
-			"date_published": "2018-05-31T20:25:00-07:00",
+			"date_published": "2018-05-31T22:25:00-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/31/it-is-rather.html"
 		},
 		
@@ -513,7 +529,7 @@
 			"id": "http://aclaman.micro.blog/2018/06/01/one-of-these.html",
 	      	
 			"content_text": "One of these days I’ll sit down and work through...",
-			"date_published": "2018-05-31T17:15:42-07:00",
+			"date_published": "2018-05-31T19:15:42-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/31/one-of-these.html"
 		},
 		
@@ -521,7 +537,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/29/taking-myself-out.html",
 	      	
 			"content_text": "Taking myself out to ice cream (accompanied by my current...",
-			"date_published": "2018-05-29T12:23:07-07:00",
+			"date_published": "2018-05-29T14:23:07-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/29/taking-myself-out.html"
 		},
 		
@@ -529,7 +545,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/27/personal-confession-i.html",
 	      	
 			"content_text": "Personal confession: I find babies and small children utterly bemusing....",
-			"date_published": "2018-05-27T14:20:55-07:00",
+			"date_published": "2018-05-27T16:20:55-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/27/personal-confession-i.html"
 		},
 		
@@ -537,7 +553,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/27/this-morning-i.html",
 	      	
 			"content_text": "This morning I saw a squirrel (almost drove over it),...",
-			"date_published": "2018-05-27T10:07:13-07:00",
+			"date_published": "2018-05-27T12:07:13-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/27/this-morning-i.html"
 		},
 		
@@ -545,7 +561,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/25/solo.html",
 	      	
 			"content_text": "Solo 🎥\n",
-			"date_published": "2018-05-24T18:00:40-07:00",
+			"date_published": "2018-05-24T20:00:40-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/24/solo.html"
 		},
 		
@@ -553,7 +569,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/24/well-time-to.html",
 	      	
 			"content_text": "Well, time to file Deadpool 2 under “films that simultaneously...",
-			"date_published": "2018-05-23T17:33:43-07:00",
+			"date_published": "2018-05-23T19:33:43-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/23/well-time-to.html"
 		},
 		
@@ -561,7 +577,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/23/time-for-deadpool.html",
 	      	
 			"content_text": "Time for Deadpool 2 🎥\n",
-			"date_published": "2018-05-23T12:57:59-07:00",
+			"date_published": "2018-05-23T14:57:59-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/23/time-for-deadpool.html"
 		},
 		
@@ -569,7 +585,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/22/accidentally-took-the.html",
 	      	
 			"content_text": "Accidentally took the dog on a 3 mile hike this...",
-			"date_published": "2018-05-22T14:43:39-07:00",
+			"date_published": "2018-05-22T16:43:39-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/22/accidentally-took-the.html"
 		},
 		
@@ -577,7 +593,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/22/landed-heading-for.html",
 	      	
 			"content_text": "Landed; heading for home, tea, and sleep.\n",
-			"date_published": "2018-05-21T17:48:52-07:00",
+			"date_published": "2018-05-21T19:48:52-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/21/landed-heading-for.html"
 		},
 		
@@ -585,15 +601,15 @@
 			"id": "http://aclaman.micro.blog/2018/05/20/today-was-fun.html",
 	      	
 			"content_text": "Today was fun, but now I am exhausted\n",
-			"date_published": "2018-05-19T22:26:29-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/19/today-was-fun.html"
+			"date_published": "2018-05-20T00:26:29-05:00",
+			"url": "http://micro.alexclaman.com/2018/05/20/today-was-fun.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/05/19/145702.html",
 	      	
 			"content_text": "☕️☕️+📚\n",
-			"date_published": "2018-05-19T07:57:02-07:00",
+			"date_published": "2018-05-19T09:57:02-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/19/145702.html"
 		},
 		
@@ -601,15 +617,15 @@
 			"id": "http://aclaman.micro.blog/2018/05/18/that-feeling-when.html",
 	      	
 			"content_text": "That feeling when you’ve stayed up late to finish an...",
-			"date_published": "2018-05-17T23:28:42-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/17/that-feeling-when.html"
+			"date_published": "2018-05-18T01:28:42-05:00",
+			"url": "http://micro.alexclaman.com/2018/05/18/that-feeling-when.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/05/17/the-coffee-shop.html",
 	      	
 			"content_text": "The coffee shop I’m reading in has been playing a...",
-			"date_published": "2018-05-17T09:19:54-07:00",
+			"date_published": "2018-05-17T11:19:54-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/17/the-coffee-shop.html"
 		},
 		
@@ -617,7 +633,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/16/i-napped-for.html",
 	      	
 			"content_text": "I napped for about two hours this afternoon, which should...",
-			"date_published": "2018-05-16T16:18:40-07:00",
+			"date_published": "2018-05-16T18:18:40-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/16/i-napped-for.html"
 		},
 		
@@ -625,7 +641,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/16/hello-minnesota.html",
 	      	
 			"content_text": "Hello Minnesota\n",
-			"date_published": "2018-05-16T11:16:46-07:00",
+			"date_published": "2018-05-16T13:16:46-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/16/hello-minnesota.html"
 		},
 		
@@ -633,7 +649,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/16/it-is-now.html",
 	      	
 			"content_text": "It is now morning\n",
-			"date_published": "2018-05-16T05:05:30-07:00",
+			"date_published": "2018-05-16T07:05:30-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/16/it-is-now.html"
 		},
 		
@@ -641,7 +657,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/14/in-response-to.html",
 	      	
 			"content_text": "In response to tonight’s Westworld episode: I really should have...",
-			"date_published": "2018-05-13T21:31:53-07:00",
+			"date_published": "2018-05-13T23:31:53-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/13/in-response-to.html"
 		},
 		
@@ -649,7 +665,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/12/accurate.html",
 	      	
 			"content_text": "Accurate\n\n\n",
-			"date_published": "2018-05-12T14:14:31-07:00",
+			"date_published": "2018-05-12T16:14:31-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/12/accurate.html"
 		},
 		
@@ -657,15 +673,15 @@
 			"id": "http://aclaman.micro.blog/2018/05/12/im-tired-but.html",
 	      	
 			"content_text": "I’m tired, but I don’t want to sleep…\n\n…cool\n",
-			"date_published": "2018-05-11T22:53:35-07:00",
-			"url": "http://micro.alexclaman.com/2018/05/11/im-tired-but.html"
+			"date_published": "2018-05-12T00:53:35-05:00",
+			"url": "http://micro.alexclaman.com/2018/05/12/im-tired-but.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/05/12/it-was-a.html",
 	      	
 			"content_text": "It was a slow night at the store, but at...",
-			"date_published": "2018-05-11T20:58:14-07:00",
+			"date_published": "2018-05-11T22:58:14-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/11/it-was-a.html"
 		},
 		
@@ -673,7 +689,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/11/only-in-the.html",
 	      	
 			"content_text": "Only 9:30 in the morning and I’ve already finished a...",
-			"date_published": "2018-05-11T09:35:15-07:00",
+			"date_published": "2018-05-11T11:35:15-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/11/only-in-the.html"
 		},
 		
@@ -681,7 +697,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/10/making-plans-with.html",
 	      	
 			"content_text": "Making plans with friends is fun\n",
-			"date_published": "2018-05-10T14:37:23-07:00",
+			"date_published": "2018-05-10T16:37:23-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/10/making-plans-with.html"
 		},
 		
@@ -689,7 +705,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/09/im-caught-up.html",
 	      	
 			"content_text": "I’m caught up on Steven Universe\n",
-			"date_published": "2018-05-08T21:29:21-07:00",
+			"date_published": "2018-05-08T23:29:21-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/08/im-caught-up.html"
 		},
 		
@@ -697,7 +713,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/08/scored-a-cool.html",
 	      	
 			"content_text": "Scored a cool poster at work today\n\n\n",
-			"date_published": "2018-05-08T12:14:49-07:00",
+			"date_published": "2018-05-08T14:14:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/08/scored-a-cool.html"
 		},
 		
@@ -705,7 +721,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/07/new-carpet-being.html",
 	      	
 			"content_text": "New carpet being put in tomorrow, meaning that it’s time...",
-			"date_published": "2018-05-07T15:11:01-07:00",
+			"date_published": "2018-05-07T17:11:01-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/07/new-carpet-being.html"
 		},
 		
@@ -713,7 +729,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/06/reading.html",
 	      	
 			"content_text": "Reading\n\n\n",
-			"date_published": "2018-05-06T12:31:19-07:00",
+			"date_published": "2018-05-06T14:31:19-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/06/reading.html"
 		},
 		
@@ -721,7 +737,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/06/this-has-been.html",
 	      	
 			"content_text": "This has been a long day, so it’s time for...",
-			"date_published": "2018-05-05T21:57:35-07:00",
+			"date_published": "2018-05-05T23:57:35-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/05/this-has-been.html"
 		},
 		
@@ -729,7 +745,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/04/my-allergies-seem.html",
 	      	
 			"content_text": "My allergies seem to be intent on completely knocking me...",
-			"date_published": "2018-05-04T15:45:49-07:00",
+			"date_published": "2018-05-04T17:45:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/04/my-allergies-seem.html"
 		},
 		
@@ -737,7 +753,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/03/sleepy-puppy.html",
 	      	
 			"content_text": "Sleepy puppy\n\n\n",
-			"date_published": "2018-05-03T07:51:22-07:00",
+			"date_published": "2018-05-03T09:51:22-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/03/sleepy-puppy.html"
 		},
 		
@@ -745,7 +761,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/02/165145.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2018-05-02T09:51:45-07:00",
+			"date_published": "2018-05-02T11:51:45-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/02/165145.html"
 		},
 		
@@ -753,7 +769,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/02/i-have-done.html",
 	      	
 			"content_text": "I have done almost nothing today and yet I am...",
-			"date_published": "2018-05-01T18:55:20-07:00",
+			"date_published": "2018-05-01T20:55:20-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/01/i-have-done.html"
 		},
 		
@@ -761,7 +777,7 @@
 			"id": "http://aclaman.micro.blog/2018/05/01/still-processing-all.html",
 	      	
 			"content_text": "Still processing all of my Infinity Wars-related emotions\n",
-			"date_published": "2018-05-01T12:01:36-07:00",
+			"date_published": "2018-05-01T14:01:36-05:00",
 			"url": "http://micro.alexclaman.com/2018/05/01/still-processing-all.html"
 		},
 		
@@ -769,7 +785,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/30/infinity-war-was.html",
 	      	
 			"content_text": "Infinity War was a lot of movie\n",
-			"date_published": "2018-04-30T16:20:07-07:00",
+			"date_published": "2018-04-30T18:20:07-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/30/infinity-war-was.html"
 		},
 		
@@ -777,7 +793,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/30/im-at-that.html",
 	      	
 			"content_text": "I’m at that stage of fatigue where everything is just...",
-			"date_published": "2018-04-29T20:58:02-07:00",
+			"date_published": "2018-04-29T22:58:02-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/29/im-at-that.html"
 		},
 		
@@ -785,7 +801,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/29/its-almost-time.html",
 	      	
 			"content_text": "It’s almost time to activate social mode\n",
-			"date_published": "2018-04-29T10:02:22-07:00",
+			"date_published": "2018-04-29T12:02:22-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/29/its-almost-time.html"
 		},
 		
@@ -793,7 +809,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/28/why-yes-i.html",
 	      	
 			"content_text": "Why yes, I did just get to work 10 minutes...",
-			"date_published": "2018-04-28T14:57:40-07:00",
+			"date_published": "2018-04-28T16:57:40-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/28/why-yes-i.html"
 		},
 		
@@ -801,7 +817,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/28/happy-independent-bookstore.html",
 	      	
 			"content_text": "Happy Independent Bookstore Day!\n",
-			"date_published": "2018-04-28T08:14:02-07:00",
+			"date_published": "2018-04-28T10:14:02-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/28/happy-independent-bookstore.html"
 		},
 		
@@ -809,7 +825,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/27/saw-a-couple.html",
 	      	
 			"content_text": "Saw a couple turkeys on my run this morning. They...",
-			"date_published": "2018-04-27T09:25:14-07:00",
+			"date_published": "2018-04-27T11:25:14-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/27/saw-a-couple.html"
 		},
 		
@@ -817,7 +833,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/27/for-some-reason.html",
 	      	
 			"content_text": "For some reason, I’m in the mood to make tea…even...",
-			"date_published": "2018-04-26T17:34:49-07:00",
+			"date_published": "2018-04-26T19:34:49-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/26/for-some-reason.html"
 		},
 		
@@ -825,7 +841,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/27/be-a-good.html",
 	      	
 			"content_text": "“Be a good steward of your gifts. Protect your time....",
-			"date_published": "2018-04-26T17:26:30-07:00",
+			"date_published": "2018-04-26T19:26:30-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/26/be-a-good.html"
 		},
 		
@@ -833,7 +849,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/25/gorgeous-weather-today.html",
 	      	
 			"content_text": "Gorgeous weather today!\n\n\n",
-			"date_published": "2018-04-25T10:12:59-07:00",
+			"date_published": "2018-04-25T12:12:59-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/25/gorgeous-weather-today.html"
 		},
 		
@@ -841,7 +857,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/24/its-a-chvrchs.html",
 	      	
 			"content_text": "It’s a CHVRCHΞS kind of morning\n",
-			"date_published": "2018-04-24T10:04:41-07:00",
+			"date_published": "2018-04-24T12:04:41-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/24/its-a-chvrchs.html"
 		},
 		
@@ -849,7 +865,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/23/worked-out-for.html",
 	      	
 			"content_text": "Worked out for the first time in a long while...",
-			"date_published": "2018-04-23T08:57:07-07:00",
+			"date_published": "2018-04-23T10:57:07-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/23/worked-out-for.html"
 		},
 		
@@ -857,7 +873,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/22/today-is-a.html",
 	      	
 			"content_text": "Today is a good day\n",
-			"date_published": "2018-04-22T10:13:36-07:00",
+			"date_published": "2018-04-22T12:13:36-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/22/today-is-a.html"
 		},
 		
@@ -865,7 +881,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/20/sunny.html",
 	      	
 			"content_text": "Sunny\n\n\n",
-			"date_published": "2018-04-20T13:02:06-07:00",
+			"date_published": "2018-04-20T15:02:06-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/20/sunny.html"
 		},
 		
@@ -873,7 +889,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/20/steadily-moving-closer.html",
 	      	
 			"content_text": "Steadily moving closer to the 1-month-remaining date for my current...",
-			"date_published": "2018-04-20T10:38:29-07:00",
+			"date_published": "2018-04-20T12:38:29-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/20/steadily-moving-closer.html"
 		},
 		
@@ -881,7 +897,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/19/good-morning.html",
 	      	
 			"content_text": "Good morning!\n",
-			"date_published": "2018-04-19T09:00:56-07:00",
+			"date_published": "2018-04-19T11:00:56-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/19/good-morning.html"
 		},
 		
@@ -889,7 +905,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/19/space-opera-is.html",
 	      	
 			"content_text": "Space Opera is quite possibly the funniest novel I’ve read...",
-			"date_published": "2018-04-18T21:55:01-07:00",
+			"date_published": "2018-04-18T23:55:01-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/18/space-opera-is.html"
 		},
 		
@@ -897,7 +913,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/18/stop-acting-so.html",
 	      	
 			"content_text": "“Stop acting so small. You are the universe in ecstatic...",
-			"date_published": "2018-04-18T12:18:06-07:00",
+			"date_published": "2018-04-18T14:18:06-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/18/stop-acting-so.html"
 		},
 		
@@ -905,7 +921,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/17/so-far-space.html",
 	      	
 			"content_text": "So far Space Opera is every bit as hilarious as...",
-			"date_published": "2018-04-17T09:30:26-07:00",
+			"date_published": "2018-04-17T11:30:26-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/17/so-far-space.html"
 		},
 		
@@ -913,7 +929,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/17/i-told-my.html",
 	      	
 			"content_text": "I told my current job that I’d most likely be...",
-			"date_published": "2018-04-16T20:27:56-07:00",
+			"date_published": "2018-04-16T22:27:56-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/16/i-told-my.html"
 		},
 		
@@ -921,7 +937,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/17/haha-sure-is.html",
 	      	
 			"content_text": "Haha sure is great to know that I still get...",
-			"date_published": "2018-04-16T20:11:23-07:00",
+			"date_published": "2018-04-16T22:11:23-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/16/haha-sure-is.html"
 		},
 		
@@ -929,7 +945,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/16/152846.html",
 	      	
 			"content_text": "☕️\n",
-			"date_published": "2018-04-16T08:28:46-07:00",
+			"date_published": "2018-04-16T10:28:46-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/16/152846.html"
 		},
 		
@@ -937,7 +953,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/16/i-needed-that.html",
 	      	
 			"content_text": "I needed that nap\n",
-			"date_published": "2018-04-15T17:08:45-07:00",
+			"date_published": "2018-04-15T19:08:45-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/15/i-needed-that.html"
 		},
 		
@@ -945,7 +961,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/15/every-review-i.html",
 	      	
 			"content_text": "Every review I read is making me look forward to...",
-			"date_published": "2018-04-15T07:11:16-07:00",
+			"date_published": "2018-04-15T09:11:16-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/15/every-review-i.html"
 		},
 		
@@ -953,7 +969,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/14/hi-my-name.html",
 	      	
 			"content_text": "Hi my name is Alex and I am SUPER EXCITED...",
-			"date_published": "2018-04-14T11:33:57-07:00",
+			"date_published": "2018-04-14T13:33:57-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/14/hi-my-name.html"
 		},
 		
@@ -961,7 +977,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/14/a-couple-pictures.html",
 	      	
 			"content_text": "A couple pictures from the end of this morning’s run...",
-			"date_published": "2018-04-14T11:33:35-07:00",
+			"date_published": "2018-04-14T13:33:35-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/14/a-couple-pictures.html"
 		},
 		
@@ -969,7 +985,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/13/not-pictured-insects.html",
 	      	
 			"content_text": "Not pictured: insects chirping, birdsong, babbling brooks, my stupidly massive...",
-			"date_published": "2018-04-13T12:27:03-07:00",
+			"date_published": "2018-04-13T14:27:03-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/13/not-pictured-insects.html"
 		},
 		
@@ -977,7 +993,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/13/this-goofball.html",
 	      	
 			"content_text": "This goofball\n\n\n",
-			"date_published": "2018-04-13T10:21:13-07:00",
+			"date_published": "2018-04-13T12:21:13-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/13/this-goofball.html"
 		},
 		
@@ -985,7 +1001,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/13/time-for-a.html",
 	      	
 			"content_text": "Time for a hike!\n",
-			"date_published": "2018-04-13T09:49:21-07:00",
+			"date_published": "2018-04-13T11:49:21-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/13/time-for-a.html"
 		},
 		
@@ -993,7 +1009,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/12/this-is-as.html",
 	      	
 			"content_text": "This is a\ns\n l\n  o\n   w\nday\n",
-			"date_published": "2018-04-12T11:35:16-07:00",
+			"date_published": "2018-04-12T13:35:16-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/12/this-is-as.html"
 		},
 		
@@ -1001,7 +1017,7 @@
 			"id": "http://aclaman.micro.blog/2018/04/12/im-honestly-pretty.html",
 	      	
 			"content_text": "I’m honestly pretty bad about making major decisions in a...",
-			"date_published": "2018-04-12T06:25:38-07:00",
+			"date_published": "2018-04-12T08:25:38-05:00",
 			"url": "http://micro.alexclaman.com/2018/04/12/im-honestly-pretty.html"
 		},
 		
@@ -1009,23 +1025,23 @@
 			"id": "http://aclaman.micro.blog/2018/04/12/let-the-record.html",
 	      	
 			"content_text": "Let the record show that Princeless: Raven the Pirate Princess...",
-			"date_published": "2018-04-11T22:59:10-07:00",
-			"url": "http://micro.alexclaman.com/2018/04/11/let-the-record.html"
+			"date_published": "2018-04-12T00:59:10-05:00",
+			"url": "http://micro.alexclaman.com/2018/04/12/let-the-record.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/04/12/hello-world.html",
 	      	
 			"content_text": "Hello world!\n",
-			"date_published": "2018-04-11T22:39:47-07:00",
-			"url": "http://micro.alexclaman.com/2018/04/11/hello-world.html"
+			"date_published": "2018-04-12T00:39:47-05:00",
+			"url": "http://micro.alexclaman.com/2018/04/12/hello-world.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2017/12/20/looks-like-im.html",
 	      	
 			"content_text": "Looks like I’m trapped here for the foreseeable future\n\n\n",
-			"date_published": "2017-12-20T08:19:10-08:00",
+			"date_published": "2017-12-20T10:19:10-06:00",
 			"url": "http://micro.alexclaman.com/2017/12/20/looks-like-im.html"
 		},
 		
@@ -1033,7 +1049,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/17/readin.html",
 	      	
 			"content_text": "Readin’\n\n\n",
-			"date_published": "2017-06-17T11:40:40-07:00",
+			"date_published": "2017-06-17T13:40:40-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/17/readin.html"
 		},
 		
@@ -1041,7 +1057,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/16/found-my-new.html",
 	      	
 			"content_text": "Found my new car\n\n\n",
-			"date_published": "2017-06-16T08:32:08-07:00",
+			"date_published": "2017-06-16T10:32:08-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/16/found-my-new.html"
 		},
 		
@@ -1049,7 +1065,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/15/031547.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-14T20:15:47-07:00",
+			"date_published": "2017-06-14T22:15:47-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/14/031547.html"
 		},
 		
@@ -1057,7 +1073,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/15/031545.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-14T20:15:45-07:00",
+			"date_published": "2017-06-14T22:15:45-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/14/031545.html"
 		},
 		
@@ -1065,7 +1081,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/15/031544.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-14T20:15:44-07:00",
+			"date_published": "2017-06-14T22:15:44-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/14/031544.html"
 		},
 		
@@ -1073,7 +1089,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/14/its-pretty-even.html",
 	      	
 			"content_text": "It’s pretty even when it’s raining\n\n\n",
-			"date_published": "2017-06-14T07:18:13-07:00",
+			"date_published": "2017-06-14T09:18:13-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/14/its-pretty-even.html"
 		},
 		
@@ -1081,7 +1097,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/223051.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-12T15:30:51-07:00",
+			"date_published": "2017-06-12T17:30:51-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/12/223051.html"
 		},
 		
@@ -1089,7 +1105,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/223049.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-12T15:30:49-07:00",
+			"date_published": "2017-06-12T17:30:49-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/12/223049.html"
 		},
 		
@@ -1097,7 +1113,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/223048.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-12T15:30:48-07:00",
+			"date_published": "2017-06-12T17:30:48-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/12/223048.html"
 		},
 		
@@ -1105,7 +1121,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/223047.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-12T15:30:47-07:00",
+			"date_published": "2017-06-12T17:30:47-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/12/223047.html"
 		},
 		
@@ -1113,7 +1129,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030952.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:52-07:00",
+			"date_published": "2017-06-11T22:09:52-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030952.html"
 		},
 		
@@ -1121,7 +1137,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030946.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:46-07:00",
+			"date_published": "2017-06-11T22:09:46-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030946.html"
 		},
 		
@@ -1129,7 +1145,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030942.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:42-07:00",
+			"date_published": "2017-06-11T22:09:42-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030942.html"
 		},
 		
@@ -1137,7 +1153,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030940.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:40-07:00",
+			"date_published": "2017-06-11T22:09:40-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030940.html"
 		},
 		
@@ -1145,7 +1161,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030932.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:32-07:00",
+			"date_published": "2017-06-11T22:09:32-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030932.html"
 		},
 		
@@ -1153,7 +1169,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030929.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:29-07:00",
+			"date_published": "2017-06-11T22:09:29-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030929.html"
 		},
 		
@@ -1161,7 +1177,7 @@
 			"id": "http://aclaman.micro.blog/2017/06/12/030924.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2017-06-11T20:09:24-07:00",
+			"date_published": "2017-06-11T22:09:24-05:00",
 			"url": "http://micro.alexclaman.com/2017/06/11/030924.html"
 		},
 		
@@ -1169,7 +1185,7 @@
 			"id": "http://aclaman.micro.blog/2016/11/15/i-find-this.html",
 	      	
 			"content_text": "I find this weirdly calming\n\n\n",
-			"date_published": "2016-11-14T18:58:50-08:00",
+			"date_published": "2016-11-14T20:58:50-06:00",
 			"url": "http://micro.alexclaman.com/2016/11/14/i-find-this.html"
 		},
 		
@@ -1177,7 +1193,7 @@
 			"id": "http://aclaman.micro.blog/2016/11/03/clouds-this-morning.html",
 	      	
 			"content_text": "Clouds this morning\n\n\n",
-			"date_published": "2016-11-03T06:28:08-07:00",
+			"date_published": "2016-11-03T08:28:08-05:00",
 			"url": "http://micro.alexclaman.com/2016/11/03/clouds-this-morning.html"
 		},
 		
@@ -1185,7 +1201,7 @@
 			"id": "http://aclaman.micro.blog/2016/10/10/234057.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2016-10-10T16:40:57-07:00",
+			"date_published": "2016-10-10T18:40:57-05:00",
 			"url": "http://micro.alexclaman.com/2016/10/10/234057.html"
 		},
 		
@@ -1193,7 +1209,7 @@
 			"id": "http://aclaman.micro.blog/2016/09/07/i-found-goats.html",
 	      	
 			"content_text": "I found goats\n\n\n",
-			"date_published": "2016-09-07T10:40:44-07:00",
+			"date_published": "2016-09-07T12:40:44-05:00",
 			"url": "http://micro.alexclaman.com/2016/09/07/i-found-goats.html"
 		},
 		
@@ -1201,7 +1217,7 @@
 			"id": "http://aclaman.micro.blog/2016/09/04/190931.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2016-09-04T12:09:31-07:00",
+			"date_published": "2016-09-04T14:09:31-05:00",
 			"url": "http://micro.alexclaman.com/2016/09/04/190931.html"
 		},
 		
@@ -1209,7 +1225,7 @@
 			"id": "http://aclaman.micro.blog/2016/09/04/the-speed-limit.html",
 	      	
 			"content_text": "The speed limit here is 80\n\n\n",
-			"date_published": "2016-09-03T18:06:57-07:00",
+			"date_published": "2016-09-03T20:06:57-05:00",
 			"url": "http://micro.alexclaman.com/2016/09/03/the-speed-limit.html"
 		},
 		
@@ -1217,7 +1233,7 @@
 			"id": "http://aclaman.micro.blog/2016/09/04/cloudy.html",
 	      	
 			"content_text": "Cloudy\n\n\n",
-			"date_published": "2016-09-03T17:12:37-07:00",
+			"date_published": "2016-09-03T19:12:37-05:00",
 			"url": "http://micro.alexclaman.com/2016/09/03/cloudy.html"
 		},
 		
@@ -1225,7 +1241,7 @@
 			"id": "http://aclaman.micro.blog/2016/09/03/driving-through-the.html",
 	      	
 			"content_text": "Driving through the mountains\n\n\n",
-			"date_published": "2016-09-03T11:34:27-07:00",
+			"date_published": "2016-09-03T13:34:27-05:00",
 			"url": "http://micro.alexclaman.com/2016/09/03/driving-through-the.html"
 		},
 		
@@ -1233,7 +1249,7 @@
 			"id": "http://aclaman.micro.blog/2016/08/06/actually-barking-at.html",
 	      	
 			"content_text": "Actually barking at his own shadow\n\n\n",
-			"date_published": "2016-08-05T17:10:49-07:00",
+			"date_published": "2016-08-05T19:10:49-05:00",
 			"url": "http://micro.alexclaman.com/2016/08/05/actually-barking-at.html"
 		},
 		
@@ -1241,7 +1257,7 @@
 			"id": "http://aclaman.micro.blog/2016/08/04/pluots.html",
 	      	
 			"content_text": "Pluots\n\n\n",
-			"date_published": "2016-08-04T10:30:54-07:00",
+			"date_published": "2016-08-04T12:30:54-05:00",
 			"url": "http://micro.alexclaman.com/2016/08/04/pluots.html"
 		},
 		
@@ -1249,7 +1265,7 @@
 			"id": "http://aclaman.micro.blog/2016/07/17/apricot-gingerbread-extra.html",
 	      	
 			"content_text": "Apricot + gingerbread + extra bitter cocoa\n\n\n",
-			"date_published": "2016-07-17T09:10:08-07:00",
+			"date_published": "2016-07-17T11:10:08-05:00",
 			"url": "http://micro.alexclaman.com/2016/07/17/apricot-gingerbread-extra.html"
 		},
 		
@@ -1257,7 +1273,7 @@
 			"id": "http://aclaman.micro.blog/2016/07/16/paris.html",
 	      	
 			"content_text": "Paris!\n\n\n",
-			"date_published": "2016-07-16T11:12:59-07:00",
+			"date_published": "2016-07-16T13:12:59-05:00",
 			"url": "http://micro.alexclaman.com/2016/07/16/paris.html"
 		},
 		
@@ -1265,15 +1281,15 @@
 			"id": "http://aclaman.micro.blog/2016/07/02/harbor-view.html",
 	      	
 			"content_text": "Harbor view\n\n\n",
-			"date_published": "2016-07-01T23:31:20-07:00",
-			"url": "http://micro.alexclaman.com/2016/07/01/harbor-view.html"
+			"date_published": "2016-07-02T01:31:20-05:00",
+			"url": "http://micro.alexclaman.com/2016/07/02/harbor-view.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2016/07/01/approaching-itea.html",
 	      	
 			"content_text": "Approaching Itea\n\n\n",
-			"date_published": "2016-07-01T08:47:43-07:00",
+			"date_published": "2016-07-01T10:47:43-05:00",
 			"url": "http://micro.alexclaman.com/2016/07/01/approaching-itea.html"
 		},
 		
@@ -1281,7 +1297,7 @@
 			"id": "http://aclaman.micro.blog/2016/06/28/this-country-has.html",
 	      	
 			"content_text": "This country has nice sunsets\n\n\n",
-			"date_published": "2016-06-28T11:01:56-07:00",
+			"date_published": "2016-06-28T13:01:56-05:00",
 			"url": "http://micro.alexclaman.com/2016/06/28/this-country-has.html"
 		},
 		
@@ -1289,7 +1305,7 @@
 			"id": "http://aclaman.micro.blog/2016/06/26/thebes.html",
 	      	
 			"content_text": "Thebes\n\n\n",
-			"date_published": "2016-06-26T09:48:11-07:00",
+			"date_published": "2016-06-26T11:48:11-05:00",
 			"url": "http://micro.alexclaman.com/2016/06/26/thebes.html"
 		},
 		
@@ -1297,7 +1313,7 @@
 			"id": "http://aclaman.micro.blog/2016/06/25/morning.html",
 	      	
 			"content_text": "Morning\n\n\n",
-			"date_published": "2016-06-25T03:55:37-07:00",
+			"date_published": "2016-06-25T05:55:37-05:00",
 			"url": "http://micro.alexclaman.com/2016/06/25/morning.html"
 		},
 		
@@ -1305,7 +1321,7 @@
 			"id": "http://aclaman.micro.blog/2016/06/11/first-greek-sunset.html",
 	      	
 			"content_text": "First Greek sunset of the summer\n\n\n",
-			"date_published": "2016-06-11T11:49:42-07:00",
+			"date_published": "2016-06-11T13:49:42-05:00",
 			"url": "http://micro.alexclaman.com/2016/06/11/first-greek-sunset.html"
 		},
 		
@@ -1313,7 +1329,7 @@
 			"id": "http://aclaman.micro.blog/2016/03/06/trail.html",
 	      	
 			"content_text": "Trail\n\n\n",
-			"date_published": "2016-03-05T17:04:17-08:00",
+			"date_published": "2016-03-05T19:04:17-06:00",
 			"url": "http://micro.alexclaman.com/2016/03/05/trail.html"
 		},
 		
@@ -1321,7 +1337,7 @@
 			"id": "http://aclaman.micro.blog/2016/02/04/too-many-books.html",
 	      	
 			"content_text": "Too many books\n\n\n",
-			"date_published": "2016-02-03T20:58:49-08:00",
+			"date_published": "2016-02-03T22:58:49-06:00",
 			"url": "http://micro.alexclaman.com/2016/02/03/too-many-books.html"
 		},
 		
@@ -1329,7 +1345,7 @@
 			"id": "http://aclaman.micro.blog/2016/01/24/excited-for-pericles.html",
 	      	
 			"content_text": "Excited for Pericles!\n\n\n",
-			"date_published": "2016-01-24T10:42:57-08:00",
+			"date_published": "2016-01-24T12:42:57-06:00",
 			"url": "http://micro.alexclaman.com/2016/01/24/excited-for-pericles.html"
 		},
 		
@@ -1337,7 +1353,7 @@
 			"id": "http://aclaman.micro.blog/2016/01/24/from-the-endless.html",
 	      	
 			"content_text": "From the Endless Bridge\n\n\n",
-			"date_published": "2016-01-24T10:40:47-08:00",
+			"date_published": "2016-01-24T12:40:47-06:00",
 			"url": "http://micro.alexclaman.com/2016/01/24/from-the-endless.html"
 		},
 		
@@ -1345,7 +1361,7 @@
 			"id": "http://aclaman.micro.blog/2016/01/19/mildly-adorable.html",
 	      	
 			"content_text": "Mildly adorable.\n\n\n",
-			"date_published": "2016-01-19T09:12:44-08:00",
+			"date_published": "2016-01-19T11:12:44-06:00",
 			"url": "http://micro.alexclaman.com/2016/01/19/mildly-adorable.html"
 		},
 		
@@ -1353,7 +1369,7 @@
 			"id": "http://aclaman.micro.blog/2015/10/22/autumn.html",
 	      	
 			"content_text": "Autumn\n\n\n",
-			"date_published": "2015-10-22T07:50:04-07:00",
+			"date_published": "2015-10-22T09:50:04-05:00",
 			"url": "http://micro.alexclaman.com/2015/10/22/autumn.html"
 		},
 		
@@ -1361,7 +1377,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/08/sunrise-this-morning.html",
 	      	
 			"content_text": "Sunrise this morning\n\n\n",
-			"date_published": "2015-09-08T04:43:16-07:00",
+			"date_published": "2015-09-08T06:43:16-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/08/sunrise-this-morning.html"
 		},
 		
@@ -1369,7 +1385,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/07/i-want-to.html",
 	      	
 			"content_text": "I want to steal this pool and bring it back...",
-			"date_published": "2015-09-07T08:51:33-07:00",
+			"date_published": "2015-09-07T10:51:33-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/07/i-want-to.html"
 		},
 		
@@ -1377,7 +1393,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/06/i-could-be.html",
 	      	
 			"content_text": "I could be happy here\n\n\n",
-			"date_published": "2015-09-06T13:03:18-07:00",
+			"date_published": "2015-09-06T15:03:18-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/06/i-could-be.html"
 		},
 		
@@ -1385,7 +1401,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/06/200101.html",
 	      	
 			"content_text": "❤️\n\n\n",
-			"date_published": "2015-09-06T13:01:01-07:00",
+			"date_published": "2015-09-06T15:01:01-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/06/200101.html"
 		},
 		
@@ -1393,7 +1409,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/06/tractor-train.html",
 	      	
 			"content_text": "Tractor train!\n\n\n",
-			"date_published": "2015-09-06T10:29:46-07:00",
+			"date_published": "2015-09-06T12:29:46-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/06/tractor-train.html"
 		},
 		
@@ -1401,7 +1417,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/06/middlebury-is-all.html",
 	      	
 			"content_text": "Middlebury is all right.\n\n\n",
-			"date_published": "2015-09-06T06:05:47-07:00",
+			"date_published": "2015-09-06T08:05:47-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/06/middlebury-is-all.html"
 		},
 		
@@ -1409,7 +1425,7 @@
 			"id": "http://aclaman.micro.blog/2015/09/02/the-sky-is.html",
 	      	
 			"content_text": "The sky is very blue\n\n\n",
-			"date_published": "2015-09-02T12:42:36-07:00",
+			"date_published": "2015-09-02T14:42:36-05:00",
 			"url": "http://micro.alexclaman.com/2015/09/02/the-sky-is.html"
 		},
 		
@@ -1417,15 +1433,15 @@
 			"id": "http://aclaman.micro.blog/2015/08/30/050340.html",
 	      	
 			"content_text": "❤️\n\n\n",
-			"date_published": "2015-08-29T22:03:40-07:00",
-			"url": "http://micro.alexclaman.com/2015/08/29/050340.html"
+			"date_published": "2015-08-30T00:03:40-05:00",
+			"url": "http://micro.alexclaman.com/2015/08/30/050340.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2015/08/27/posing-as-a.html",
 	      	
 			"content_text": "Posing as a Giants fan\n\n\n",
-			"date_published": "2015-08-27T14:38:38-07:00",
+			"date_published": "2015-08-27T16:38:38-05:00",
 			"url": "http://micro.alexclaman.com/2015/08/27/posing-as-a.html"
 		},
 		
@@ -1433,7 +1449,7 @@
 			"id": "http://aclaman.micro.blog/2015/08/03/garage.html",
 	      	
 			"content_text": "Garage\n\n\n",
-			"date_published": "2015-08-03T02:51:31-07:00",
+			"date_published": "2015-08-03T04:51:31-05:00",
 			"url": "http://micro.alexclaman.com/2015/08/03/garage.html"
 		},
 		
@@ -1441,7 +1457,7 @@
 			"id": "http://aclaman.micro.blog/2015/08/01/niccolo-has-seen.html",
 	      	
 			"content_text": "Niccolo has seen better days\n\n\n",
-			"date_published": "2015-08-01T06:42:02-07:00",
+			"date_published": "2015-08-01T08:42:02-05:00",
 			"url": "http://micro.alexclaman.com/2015/08/01/niccolo-has-seen.html"
 		},
 		
@@ -1449,7 +1465,7 @@
 			"id": "http://aclaman.micro.blog/2015/07/20/this-is-a.html",
 	      	
 			"content_text": "This is a pretty cool place\n\n\n",
-			"date_published": "2015-07-20T12:42:14-07:00",
+			"date_published": "2015-07-20T14:42:14-05:00",
 			"url": "http://micro.alexclaman.com/2015/07/20/this-is-a.html"
 		},
 		
@@ -1457,7 +1473,7 @@
 			"id": "http://aclaman.micro.blog/2015/07/04/balcony-view.html",
 	      	
 			"content_text": "Balcony view\n\n\n",
-			"date_published": "2015-07-04T09:02:05-07:00",
+			"date_published": "2015-07-04T11:02:05-05:00",
 			"url": "http://micro.alexclaman.com/2015/07/04/balcony-view.html"
 		},
 		
@@ -1465,7 +1481,7 @@
 			"id": "http://aclaman.micro.blog/2015/06/20/cloud.html",
 	      	
 			"content_text": "Cloud\n\n\n",
-			"date_published": "2015-06-20T03:19:32-07:00",
+			"date_published": "2015-06-20T05:19:32-05:00",
 			"url": "http://micro.alexclaman.com/2015/06/20/cloud.html"
 		},
 		
@@ -1473,7 +1489,7 @@
 			"id": "http://aclaman.micro.blog/2015/06/17/greek-sunset-from.html",
 	      	
 			"content_text": "Greek sunset from Alepochori\n\n\n",
-			"date_published": "2015-06-17T11:11:09-07:00",
+			"date_published": "2015-06-17T13:11:09-05:00",
 			"url": "http://micro.alexclaman.com/2015/06/17/greek-sunset-from.html"
 		},
 		
@@ -1481,7 +1497,7 @@
 			"id": "http://aclaman.micro.blog/2015/06/13/alepochori-from-the.html",
 	      	
 			"content_text": "Alepochori from the dig house\n\n\n",
-			"date_published": "2015-06-13T06:52:37-07:00",
+			"date_published": "2015-06-13T08:52:37-05:00",
 			"url": "http://micro.alexclaman.com/2015/06/13/alepochori-from-the.html"
 		},
 		
@@ -1489,7 +1505,7 @@
 			"id": "http://aclaman.micro.blog/2015/06/11/bayeux-cathedral.html",
 	      	
 			"content_text": "Bayeux Cathedral\n\n\n",
-			"date_published": "2015-06-11T13:20:01-07:00",
+			"date_published": "2015-06-11T15:20:01-05:00",
 			"url": "http://micro.alexclaman.com/2015/06/11/bayeux-cathedral.html"
 		},
 		
@@ -1497,7 +1513,7 @@
 			"id": "http://aclaman.micro.blog/2015/06/09/lazy-evening.html",
 	      	
 			"content_text": "Lazy evening\n\n\n",
-			"date_published": "2015-06-08T18:02:40-07:00",
+			"date_published": "2015-06-08T20:02:40-05:00",
 			"url": "http://micro.alexclaman.com/2015/06/08/lazy-evening.html"
 		},
 		
@@ -1505,15 +1521,15 @@
 			"id": "http://aclaman.micro.blog/2015/06/02/a-very-blue.html",
 	      	
 			"content_text": "A very blue house\n\n\n",
-			"date_published": "2015-06-01T23:06:39-07:00",
-			"url": "http://micro.alexclaman.com/2015/06/01/a-very-blue.html"
+			"date_published": "2015-06-02T01:06:39-05:00",
+			"url": "http://micro.alexclaman.com/2015/06/02/a-very-blue.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2015/02/01/fun-with-nouns.html",
 	      	
 			"content_text": "Fun with nouns\n\n\n",
-			"date_published": "2015-02-01T07:29:20-08:00",
+			"date_published": "2015-02-01T09:29:20-06:00",
 			"url": "http://micro.alexclaman.com/2015/02/01/fun-with-nouns.html"
 		},
 		
@@ -1521,7 +1537,7 @@
 			"id": "http://aclaman.micro.blog/2014/04/21/cloud-shadows.html",
 	      	
 			"content_text": "Cloud shadows\n\n\n",
-			"date_published": "2014-04-20T17:50:49-07:00",
+			"date_published": "2014-04-20T19:50:49-05:00",
 			"url": "http://micro.alexclaman.com/2014/04/20/cloud-shadows.html"
 		},
 		
@@ -1529,7 +1545,7 @@
 			"id": "http://aclaman.micro.blog/2014/04/11/a-pleasantly-cool.html",
 	      	
 			"content_text": "A pleasantly cool spring morning.\n\n\n",
-			"date_published": "2014-04-11T07:31:33-07:00",
+			"date_published": "2014-04-11T09:31:33-05:00",
 			"url": "http://micro.alexclaman.com/2014/04/11/a-pleasantly-cool.html"
 		},
 		
@@ -1537,7 +1553,7 @@
 			"id": "http://aclaman.micro.blog/2014/04/09/light.html",
 	      	
 			"content_text": "Light\n\n\n",
-			"date_published": "2014-04-08T20:45:11-07:00",
+			"date_published": "2014-04-08T22:45:11-05:00",
 			"url": "http://micro.alexclaman.com/2014/04/08/light.html"
 		},
 		
@@ -1545,7 +1561,7 @@
 			"id": "http://aclaman.micro.blog/2014/03/29/three-twins-for.html",
 	      	
 			"content_text": "Three Twins for breakfast\n\n\n",
-			"date_published": "2014-03-29T06:39:44-07:00",
+			"date_published": "2014-03-29T08:39:44-05:00",
 			"url": "http://micro.alexclaman.com/2014/03/29/three-twins-for.html"
 		},
 		
@@ -1553,7 +1569,7 @@
 			"id": "http://aclaman.micro.blog/2014/02/15/minneapolis-in-the.html",
 	      	
 			"content_text": "Minneapolis in the midst of a snowstorm.\n\n\n",
-			"date_published": "2014-02-15T10:24:01-08:00",
+			"date_published": "2014-02-15T12:24:01-06:00",
 			"url": "http://micro.alexclaman.com/2014/02/15/minneapolis-in-the.html"
 		},
 		
@@ -1561,7 +1577,7 @@
 			"id": "http://aclaman.micro.blog/2014/01/26/coffee-vscocam.html",
 	      	
 			"content_text": "Coffee! #vscocam\n\n\n",
-			"date_published": "2014-01-26T12:22:26-08:00",
+			"date_published": "2014-01-26T14:22:26-06:00",
 			"url": "http://micro.alexclaman.com/2014/01/26/coffee-vscocam.html"
 		},
 		
@@ -1569,7 +1585,7 @@
 			"id": "http://aclaman.micro.blog/2014/01/18/it-snowed-last.html",
 	      	
 			"content_text": "It snowed last night.\n\n\n",
-			"date_published": "2014-01-18T10:10:16-08:00",
+			"date_published": "2014-01-18T12:10:16-06:00",
 			"url": "http://micro.alexclaman.com/2014/01/18/it-snowed-last.html"
 		},
 		
@@ -1577,7 +1593,7 @@
 			"id": "http://aclaman.micro.blog/2014/01/11/053451.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2014-01-10T21:34:51-08:00",
+			"date_published": "2014-01-10T23:34:51-06:00",
 			"url": "http://micro.alexclaman.com/2014/01/10/053451.html"
 		},
 		
@@ -1585,7 +1601,7 @@
 			"id": "http://aclaman.micro.blog/2014/01/11/053425.html",
 	      	
 			"content_text": "\n",
-			"date_published": "2014-01-10T21:34:25-08:00",
+			"date_published": "2014-01-10T23:34:25-06:00",
 			"url": "http://micro.alexclaman.com/2014/01/10/053425.html"
 		},
 		
@@ -1593,7 +1609,7 @@
 			"id": "http://aclaman.micro.blog/2013/12/25/this-is-my.html",
 	      	
 			"content_text": "This is my new favorite gift.\n\n\n",
-			"date_published": "2013-12-25T10:42:16-08:00",
+			"date_published": "2013-12-25T12:42:16-06:00",
 			"url": "http://micro.alexclaman.com/2013/12/25/this-is-my.html"
 		},
 		
@@ -1601,7 +1617,7 @@
 			"id": "http://aclaman.micro.blog/2013/12/25/more-leaves-vscocam.html",
 	      	
 			"content_text": "More leaves #vscocam\n\n\n",
-			"date_published": "2013-12-24T21:19:55-08:00",
+			"date_published": "2013-12-24T23:19:55-06:00",
 			"url": "http://micro.alexclaman.com/2013/12/24/more-leaves-vscocam.html"
 		},
 		
@@ -1609,7 +1625,7 @@
 			"id": "http://aclaman.micro.blog/2013/12/25/autumn-leaves.html",
 	      	
 			"content_text": "Autumn leaves\n\n\n",
-			"date_published": "2013-12-24T21:16:17-08:00",
+			"date_published": "2013-12-24T23:16:17-06:00",
 			"url": "http://micro.alexclaman.com/2013/12/24/autumn-leaves.html"
 		},
 		
@@ -1617,7 +1633,7 @@
 			"id": "http://aclaman.micro.blog/2013/12/25/french-presskayclayy.html",
 	      	
 			"content_text": "French press\n@kayclayy07\n\n\n",
-			"date_published": "2013-12-24T20:14:49-08:00",
+			"date_published": "2013-12-24T22:14:49-06:00",
 			"url": "http://micro.alexclaman.com/2013/12/24/french-presskayclayy.html"
 		},
 		
@@ -1625,7 +1641,7 @@
 			"id": "http://aclaman.micro.blog/2013/09/25/slippers.html",
 	      	
 			"content_text": "Slippers!\n\n\n",
-			"date_published": "2013-09-24T20:32:43-07:00",
+			"date_published": "2013-09-24T22:32:43-05:00",
 			"url": "http://micro.alexclaman.com/2013/09/24/slippers.html"
 		},
 		
@@ -1633,7 +1649,7 @@
 			"id": "http://aclaman.micro.blog/2013/09/09/boarding.html",
 	      	
 			"content_text": "Boarding\n\n\n",
-			"date_published": "2013-09-09T11:56:24-07:00",
+			"date_published": "2013-09-09T13:56:24-05:00",
 			"url": "http://micro.alexclaman.com/2013/09/09/boarding.html"
 		},
 		
@@ -1641,7 +1657,7 @@
 			"id": "http://aclaman.micro.blog/2013/08/19/honestly-no-idea.html",
 	      	
 			"content_text": "Honestly no idea what happened here\n\n\n",
-			"date_published": "2013-08-19T13:24:32-07:00",
+			"date_published": "2013-08-19T15:24:32-05:00",
 			"url": "http://micro.alexclaman.com/2013/08/19/honestly-no-idea.html"
 		},
 		
@@ -1649,15 +1665,15 @@
 			"id": "http://aclaman.micro.blog/2013/08/19/dinosaur.html",
 	      	
 			"content_text": "Dinosaur\n\n\n",
-			"date_published": "2013-08-18T22:35:34-07:00",
-			"url": "http://micro.alexclaman.com/2013/08/18/dinosaur.html"
+			"date_published": "2013-08-19T00:35:34-05:00",
+			"url": "http://micro.alexclaman.com/2013/08/19/dinosaur.html"
 		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2013/08/11/sunset.html",
 	      	
 			"content_text": "Sunset\n\n\n",
-			"date_published": "2013-08-11T14:13:42-07:00",
+			"date_published": "2013-08-11T16:13:42-05:00",
 			"url": "http://micro.alexclaman.com/2013/08/11/sunset.html"
 		}
 		
