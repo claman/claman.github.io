@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-04-20 17:50:49 -0700
+date: 2014-04-20 19:50:49 -0500
 guid: http://aclaman.micro.blog/2014/04/21/cloud-shadows.html
 ---
 Cloud shadows
