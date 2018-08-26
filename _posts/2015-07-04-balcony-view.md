@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-07-04 09:02:05 -0700
+date: 2015-07-04 11:02:05 -0500
 guid: http://aclaman.micro.blog/2015/07/04/balcony-view.html
 ---
 Balcony view
