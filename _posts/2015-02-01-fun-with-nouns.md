@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-02-01 08:29:20 -0700
+date: 2015-02-01 10:29:20 -0500
 guid: http://aclaman.micro.blog/2015/02/01/fun-with-nouns.html
 ---
 Fun with nouns
