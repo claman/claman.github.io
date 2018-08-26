@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-22 14:43:39 -0700
+date: 2018-05-22 16:43:39 -0500
 guid: http://aclaman.micro.blog/2018/05/22/accidentally-took-the.html
 ---
 Accidentally took the dog on a 3 mile hike this morning and found this old car in the middle of the woods
