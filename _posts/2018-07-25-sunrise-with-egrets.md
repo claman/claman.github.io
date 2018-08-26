@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-25 08:29:35 -0700
+date: 2018-07-25 10:29:35 -0500
 guid: http://aclaman.micro.blog/2018/07/25/sunrise-with-egrets.html
 ---
 Sunrise with egrets
