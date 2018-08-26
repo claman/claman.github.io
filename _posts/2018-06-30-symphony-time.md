@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-29 19:57:08 -0700
+date: 2018-06-29 21:57:08 -0500
 guid: http://aclaman.micro.blog/2018/06/30/symphony-time.html
 ---
 Symphony time!
