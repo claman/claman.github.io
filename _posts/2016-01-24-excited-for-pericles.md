@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-01-24 11:42:57 -0700
+date: 2016-01-24 13:42:57 -0500
 guid: http://aclaman.micro.blog/2016/01/24/excited-for-pericles.html
 ---
 Excited for Pericles!
