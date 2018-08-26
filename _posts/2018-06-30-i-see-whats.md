@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-29 19:37:06 -0700
+date: 2018-06-29 21:37:06 -0500
 guid: http://aclaman.micro.blog/2018/06/30/i-see-whats.html
 ---
 I see what’s going on here
