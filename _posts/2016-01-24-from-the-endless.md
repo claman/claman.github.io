@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-01-24 11:40:47 -0700
+date: 2016-01-24 13:40:47 -0500
 guid: http://aclaman.micro.blog/2016/01/24/from-the-endless.html
 ---
 From the Endless Bridge
