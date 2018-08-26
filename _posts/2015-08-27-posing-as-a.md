@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-08-27 14:38:38 -0700
+date: 2015-08-27 16:38:38 -0500
 guid: http://aclaman.micro.blog/2015/08/27/posing-as-a.html
 ---
 Posing as a Giants fan
