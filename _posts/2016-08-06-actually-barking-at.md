@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-08-05 17:10:49 -0700
+date: 2016-08-05 19:10:49 -0500
 guid: http://aclaman.micro.blog/2016/08/06/actually-barking-at.html
 ---
 Actually barking at his own shadow
