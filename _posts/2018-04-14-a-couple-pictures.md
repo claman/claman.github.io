@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-14 11:33:35 -0700
+date: 2018-04-14 13:33:35 -0500
 guid: http://aclaman.micro.blog/2018/04/14/a-couple-pictures.html
 ---
 A couple pictures from the end of this morning’s run
