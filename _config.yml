@@ -24,7 +24,7 @@ paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "3928"
 gems: ["jekyll-paginate"]
-itunes_description: "Nerd, thinker, reader, feminist, and advocate for the Oxford comma. Soon-to-be MA student in Classical Archaeology. He/him."
+itunes_description: "Nerd, thinker, reader, feminist, and advocate for the Oxford comma. MA student in Classical Archaeology at Texas Tech. He/him."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Alex Claman"
