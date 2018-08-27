@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/26/goal-for-today.html",
+	      	
+			"content_html": "<p>Goal for today: remember (or re-learn) Greek grammar well enough to read some selections from the first part of Hesiod’s Theogony.</p>\n\n<p>I’m cautiously optimistic.</p>\n",
+			"date_published": "2018-08-26T08:59:58-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/26/goal-for-today.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/26/crazy-rich-asians.html",
+	      	
+			"content_html": "<p>Crazy Rich Asians is amazing! Go see it if you haven’t already!</p>\n",
+			"date_published": "2018-08-25T19:15:48-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/25/crazy-rich-asians.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/25/so-far-today.html",
+	      	
+			"content_html": "<p>So far today I have gone for a run, powered through a <em>lot</em> of emails, organized my folder system for the semester, and awkwardly made eye contact with several random people across the coffee shop.</p>\n\n<p>Now it’s time to do some reading about classics as a discipline.</p>\n",
+			"date_published": "2018-08-25T10:08:17-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/25/so-far-today.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/25/sunrise-beginning-and.html",
+	      	
+			"content_html": "<p>Sunrise: beginning and in-progress</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/beecf71e85.jpg\" width=\"600\" height=\"599\" /><img src=\"http://micro.alexclaman.com/uploads/2018/8b734daad2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-25T07:26:10-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/25/sunrise-beginning-and.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/24/i-am-now.html",
 	      	
 			"content_html": "<p>I am now officially oriented.</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>Could we all collectively agree that today is Friday and the next two days are both Saturday?</p>\n",
 			"date_published": "2018-07-26T12:11:47-05:00",
 			"url": "http://micro.alexclaman.com/2018/07/26/could-we-all.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/25/sunrise-with-egrets.html",
-	      	
-			"content_html": "<p>Sunrise with egrets</p>\n\n<p>(From this morning’s run)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/fcc728e8f0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-25T10:29:35-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/25/sunrise-with-egrets.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/23/i-only-just.html",
-	      	
-			"content_html": "<p>I only just realized that all I ate for breakfast this morning was a banana and a bit of yogurt, which probably goes a long way toward explaining why I’ve felt so out of sorts today. Currently on my way to remedy the situation.</p>\n",
-			"date_published": "2018-07-23T14:10:17-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/23/i-only-just.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/23/really-looking-forward.html",
-	      	
-			"content_html": "<p>Really looking forward to getting these mouth stitches out tomorrow.</p>\n",
-			"date_published": "2018-07-23T11:29:45-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/23/really-looking-forward.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/22/starting-off-my.html",
-	      	
-			"content_html": "<p>Starting off my morning with a cup of coffee and a chunk of the Pro Caelio, because apparently I’ve decided to start rebuilding my academic work habits earlier than strictly necessary.</p>\n\n<p>Honestly it’s probably a good thing.</p>\n",
-			"date_published": "2018-07-22T09:49:06-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/22/starting-off-my.html"
 		}
 		
 	]
