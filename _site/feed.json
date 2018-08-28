@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/28/swam-for-the.html",
+	      	
+			"content_html": "<p>Swam for the first time in several weeks. Didn’t do a whole lot of yardage, but I feel much better already.</p>\n",
+			"date_published": "2018-08-28T08:15:37-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/28/swam-for-the.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/27/for-the-first.html",
+	      	
+			"content_html": "<p>For the first and probably last time, I am entirely caught up on podcasts.</p>\n",
+			"date_published": "2018-08-27T10:36:43-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/27/for-the-first.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/27/an-interesting-economicsfocused.html",
+	      	
+			"content_html": "<p>An interesting economics-focused look at the effects of the trade in the first millennium BCE: <a href=\"https://voxeu.org/article/trade-and-growth-iron-age\">voxeu.org/article/t…</a></p>\n",
+			"date_published": "2018-08-27T09:49:59-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/27/an-interesting-economicsfocused.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/27/first-day-of.html",
+	      	
+			"content_html": "<p>First day of classes!</p>\n",
+			"date_published": "2018-08-27T08:35:51-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/27/first-day-of.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/26/goal-for-today.html",
 	      	
 			"content_html": "<p>Goal for today: remember (or re-learn) Greek grammar well enough to read some selections from the first part of Hesiod’s Theogony.</p>\n\n<p>I’m cautiously optimistic.</p>\n",
@@ -171,38 +203,6 @@
 			"content_html": "<p>Time to call utility companies</p>\n",
 			"date_published": "2018-08-02T14:01:55-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/02/time-to-call.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/31/that-warm-fuzzy.html",
-	      	
-			"content_html": "<p>That warm fuzzy feeling when you get the notification that two books that you’d forgotten you’d pre-ordered are now available</p>\n",
-			"date_published": "2018-07-31T09:22:45-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/31/that-warm-fuzzy.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/28/todays-used-bookstore.html",
-	      	
-			"content_html": "<p>Today’s used bookstore find</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/4d36171cc4.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-28T16:56:05-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/28/todays-used-bookstore.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/28/sitting-outside-a.html",
-	      	
-			"content_html": "<p>Sitting outside a doughnut shop, sipping coffee, and watching the world go by. It’s very peaceful.</p>\n",
-			"date_published": "2018-07-28T11:21:57-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/28/sitting-outside-a.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/07/26/could-we-all.html",
-	      	
-			"content_html": "<p>Could we all collectively agree that today is Friday and the next two days are both Saturday?</p>\n",
-			"date_published": "2018-07-26T12:11:47-05:00",
-			"url": "http://micro.alexclaman.com/2018/07/26/could-we-all.html"
 		}
 		
 	]
