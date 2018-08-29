@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/08/29/i-have-found.html",
+	      	
+			"content_text": "I have found the free coffee.\n",
+			"date_published": "2018-08-29T12:34:41-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/29/i-have-found.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/08/29/i-always-get.html",
+	      	
+			"content_text": "I always get a nice little sense of accomplishment when...",
+			"date_published": "2018-08-29T08:05:58-05:00",
+			"url": "http://micro.alexclaman.com/2018/08/29/i-always-get.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/08/28/swam-for-the.html",
 	      	
 			"content_text": "Swam for the first time in several weeks. Didn’t do...",
