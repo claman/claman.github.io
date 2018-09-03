@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/02/some-gorgeous-clouds.html",
+	      	
+			"content_html": "<p>Some gorgeous clouds this morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/39a7aa5e2c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-02T08:22:00-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/02/some-gorgeous-clouds.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/02/001344.html",
 	      	
 			"content_html": "<p>This is my first official Saturday of grad school, which means that I spent about 6 hours today reading part of the Odyssey Book 9 in Greek, then went out for groceries, and made this salad. Next I’m going to put together a chair.</p>\n\n<p>Life is good 😄</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/972a573a14.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I received a slightly frosty welcome from one of my new roommates</p>\n\n<p>(Image of Nyx, a small black cat perched atop some cabinets)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/d956aa5d7a.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-16T16:43:05-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/16/i-received-a.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/15/greetings-from-just.html",
-	      	
-			"content_html": "<p>Greetings from just outside Albuquerque</p>\n",
-			"date_published": "2018-08-15T16:42:47-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/15/greetings-from-just.html"
 		}
 		
 	]
