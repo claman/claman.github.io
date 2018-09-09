@@ -6,6 +6,70 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/07/i-am-battling.html",
+	      	
+			"content_html": "<p>I am battling an impressive case of Friday brain.</p>\n",
+			"date_published": "2018-09-07T12:37:53-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/07/i-am-battling.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/07/man-in-the.html",
+	      	
+			"content_html": "<p>Man in the Iron Mask is a <em>good</em> film</p>\n",
+			"date_published": "2018-09-06T21:08:49-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/06/man-in-the.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/06/had-a-good.html",
+	      	
+			"content_html": "<p>Had a good discussion about authorial intent vs. guiding authorial consciousness in the context of Homer.</p>\n",
+			"date_published": "2018-09-06T16:55:45-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/06/had-a-good.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/05/oatmeal-blueberries-coffee.html",
+	      	
+			"content_html": "<p>Oatmeal, blueberries, coffee, and a bit of Solnit. Starting out the day well.</p>\n",
+			"date_published": "2018-09-05T07:26:35-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/05/oatmeal-blueberries-coffee.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/04/roasting-some-veggies.html",
+	      	
+			"content_html": "<p>Roasting some veggies for dinner tonight–carrots, bit of garlic, and half a cauliflower</p>\n",
+			"date_published": "2018-09-04T17:50:23-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/04/roasting-some-veggies.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/04/finally-read-story.html",
+	      	
+			"content_html": "<p><em>Finally</em> read Story of Your Life by Ted Chiang, which inspired me to watch Arrival again. Such a sublime, thought-provoking, and cathartic experience.</p>\n",
+			"date_published": "2018-09-03T20:03:54-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/03/finally-read-story.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/03/my-plan-for.html",
+	      	
+			"content_html": "<p>My plan for today is to read two books.</p>\n",
+			"date_published": "2018-09-03T10:44:45-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/03/my-plan-for.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/02/so-far-im.html",
+	      	
+			"content_html": "<p>So far I’m finding the Second Philippic much easier reading than the Pro Caelio, but I will forever be glad that the latter was my introduction to Latin prose.</p>\n",
+			"date_published": "2018-09-02T11:44:26-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/02/so-far-im.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/02/some-gorgeous-clouds.html",
 	      	
 			"content_html": "<p>Some gorgeous clouds this morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/39a7aa5e2c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -139,70 +203,6 @@
 			"content_html": "<p>I am now officially oriented.</p>\n",
 			"date_published": "2018-08-24T14:14:01-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/24/i-am-now.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/23/one-thing-i.html",
-	      	
-			"content_html": "<p>One thing I had not missed about being in school: that sinking feeling you get when you don’t check your email for an hour and open it up to 20 new messages that all require your timely response.</p>\n",
-			"date_published": "2018-08-23T12:12:26-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/23/one-thing-i.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/23/another-day-another.html",
-	      	
-			"content_html": "<p>Another day, another orientation session. At least today is only five hours.</p>\n",
-			"date_published": "2018-08-23T09:08:43-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/23/another-day-another.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/22/it-is-about.html",
-	      	
-			"content_html": "<p>It is about 7:50am, the coffee is <em>just</em> starting to hit me, and for some unknown reason someone put on smooth jazz. It is too early for this.</p>\n",
-			"date_published": "2018-08-22T07:54:21-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/22/it-is-about.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/21/this-was-possibly.html",
-	      	
-			"content_html": "<p>This was possibly the most carefully I have ever driven</p>\n\n<p>(Picture of a mattress and box spring tied to the top of my car)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/26ccb7707c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-21T15:12:26-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/21/this-was-possibly.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/21/enjoying-my-last.html",
-	      	
-			"content_html": "<p>Enjoying my last day of summer…out of the 9 total I was able to eke out…</p>\n",
-			"date_published": "2018-08-21T08:07:02-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/21/enjoying-my-last.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/20/getting-set-up.html",
-	      	
-			"content_html": "<p>Getting set up to watch Live and Let Die with the new roommates. It’s been a little while since I’ve seen a Bond film.</p>\n",
-			"date_published": "2018-08-19T20:19:37-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/19/getting-set-up.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/19/134503.html",
-	      	
-			"content_html": "<p>Clouds this morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/20bfc5c6ed.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-08-19T08:45:03-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/19/134503.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/16/i-received-a.html",
-	      	
-			"content_html": "<p>I received a slightly frosty welcome from one of my new roommates</p>\n\n<p>(Image of Nyx, a small black cat perched atop some cabinets)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/d956aa5d7a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-16T16:43:05-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/16/i-received-a.html"
 		}
 		
 	]
