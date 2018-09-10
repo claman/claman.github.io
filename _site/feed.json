@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/09/time-to-figure.html",
+	      	
+			"content_html": "<p>Time to figure out my meal planning for the coming week.</p>\n",
+			"date_published": "2018-09-09T14:17:46-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/09/time-to-figure.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/08/blustery-day.html",
+	      	
+			"content_html": "<p>Blustery day</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/4282c1051d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-08T14:45:06-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/08/blustery-day.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/07/i-am-battling.html",
 	      	
 			"content_html": "<p>I am battling an impressive case of Friday brain.</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>So far today I have gone for a run, powered through a <em>lot</em> of emails, organized my folder system for the semester, and awkwardly made eye contact with several random people across the coffee shop.</p>\n\n<p>Now it’s time to do some reading about classics as a discipline.</p>\n",
 			"date_published": "2018-08-25T10:08:17-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/25/so-far-today.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/25/sunrise-beginning-and.html",
-	      	
-			"content_html": "<p>Sunrise: beginning and in-progress</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/beecf71e85.jpg\" width=\"600\" height=\"599\" /><img src=\"http://micro.alexclaman.com/uploads/2018/8b734daad2.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-25T07:26:10-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/25/sunrise-beginning-and.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/24/i-am-now.html",
-	      	
-			"content_html": "<p>I am now officially oriented.</p>\n",
-			"date_published": "2018-08-24T14:14:01-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/24/i-am-now.html"
 		}
 		
 	]
