@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/10/there-are-some.html",
+	      	
+			"content_html": "<p>There are some things that I actually <em>need</em> to do today, but on the other hand I’m strongly considering going down a folklore rabbit hole about kelpies, nixies, and other water-related creatures (like bunyips).</p>\n",
+			"date_published": "2018-09-10T08:55:04-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/10/there-are-some.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/09/time-to-figure.html",
 	      	
 			"content_html": "<p>Time to figure out my meal planning for the coming week.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Crazy Rich Asians is amazing! Go see it if you haven’t already!</p>\n",
 			"date_published": "2018-08-25T19:15:48-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/25/crazy-rich-asians.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/25/so-far-today.html",
-	      	
-			"content_html": "<p>So far today I have gone for a run, powered through a <em>lot</em> of emails, organized my folder system for the semester, and awkwardly made eye contact with several random people across the coffee shop.</p>\n\n<p>Now it’s time to do some reading about classics as a discipline.</p>\n",
-			"date_published": "2018-08-25T10:08:17-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/25/so-far-today.html"
 		}
 		
 	]
