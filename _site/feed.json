@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/11/back-at-my.html",
+	      	
+			"content_html": "<p>Back at my old academic tricks and ILLing enough to make my own mini-library</p>\n",
+			"date_published": "2018-09-11T12:41:43-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/11/back-at-my.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/10/pondering-and-planning.html",
+	      	
+			"content_html": "<p>Pondering and planning a few abstracts on various fun topics.</p>\n",
+			"date_published": "2018-09-10T17:50:46-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/10/pondering-and-planning.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/10/there-are-some.html",
 	      	
 			"content_html": "<p>There are some things that I actually <em>need</em> to do today, but on the other hand I’m strongly considering going down a folklore rabbit hole about kelpies, nixies, and other water-related creatures (like bunyips).</p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>First day of classes!</p>\n",
 			"date_published": "2018-08-27T08:35:51-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/27/first-day-of.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/26/goal-for-today.html",
-	      	
-			"content_html": "<p>Goal for today: remember (or re-learn) Greek grammar well enough to read some selections from the first part of Hesiod’s Theogony.</p>\n\n<p>I’m cautiously optimistic.</p>\n",
-			"date_published": "2018-08-26T08:59:58-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/26/goal-for-today.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/26/crazy-rich-asians.html",
-	      	
-			"content_html": "<p>Crazy Rich Asians is amazing! Go see it if you haven’t already!</p>\n",
-			"date_published": "2018-08-25T19:15:48-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/25/crazy-rich-asians.html"
 		}
 		
 	]
