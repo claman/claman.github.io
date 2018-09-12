@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/11/back-at-my.html",
+	      	
+			"content_text": "Back at my old academic tricks and ILLing enough to...",
+			"date_published": "2018-09-11T12:41:43-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/11/back-at-my.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/10/pondering-and-planning.html",
+	      	
+			"content_text": "Pondering and planning a few abstracts on various fun topics....",
+			"date_published": "2018-09-10T17:50:46-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/10/pondering-and-planning.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/10/there-are-some.html",
 	      	
 			"content_text": "There are some things that I actually need to do...",
