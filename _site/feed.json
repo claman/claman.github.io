@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Alex Claman",
+	"icon": "https://micro.blog/aclaman/avatar.jpg",
 	"home_page_url": "http://micro.alexclaman.com/",
 	"feed_url": "http://micro.alexclaman.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/12/the-shelf-so.html",
+	      	
+			"content_html": "<p>The shelf so far (featuring a bit of tea)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/6acbc6a6b6.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-12T13:09:44-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/12/the-shelf-so.html"
+		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/09/11/back-at-my.html",
@@ -195,14 +204,6 @@
 			"content_html": "<p>An interesting economics-focused look at the effects of the trade in the first millennium BCE: <a href=\"https://voxeu.org/article/trade-and-growth-iron-age\">voxeu.org/article/t…</a></p>\n",
 			"date_published": "2018-08-27T09:49:59-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/27/an-interesting-economicsfocused.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/27/first-day-of.html",
-	      	
-			"content_html": "<p>First day of classes!</p>\n",
-			"date_published": "2018-08-27T08:35:51-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/27/first-day-of.html"
 		}
 		
 	]
