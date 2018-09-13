@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Alex Claman",
+	"icon": "https://micro.blog/aclaman/avatar.jpg",
 	"home_page_url": "http://micro.alexclaman.com/",
 	"feed_url": "http://micro.alexclaman.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/12/the-shelf-so.html",
+	      	
+			"content_text": "The shelf so far (featuring a bit of tea)\n\n\n",
+			"date_published": "2018-09-12T13:09:44-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/12/the-shelf-so.html"
+		},
 		
 		{
 			"id": "http://aclaman.micro.blog/2018/09/11/back-at-my.html",
