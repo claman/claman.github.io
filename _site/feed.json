@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/13/im-not-sure.html",
+	      	
+			"content_html": "<p>I’m not sure what it says about me that one of my favorite things about being a grad student is that I can check out books for the entire semester.</p>\n",
+			"date_published": "2018-09-13T17:41:54-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/13/im-not-sure.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/13/counting-descent.html",
+	      	
+			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=eVzc1vdnkvs\">Counting Descent</a></p>\n",
+			"date_published": "2018-09-13T12:06:50-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/13/counting-descent.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/12/the-shelf-so.html",
 	      	
 			"content_html": "<p>The shelf so far (featuring a bit of tea)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/6acbc6a6b6.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Swam for the first time in several weeks. Didn’t do a whole lot of yardage, but I feel much better already.</p>\n",
 			"date_published": "2018-08-28T08:15:37-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/28/swam-for-the.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/27/for-the-first.html",
-	      	
-			"content_html": "<p>For the first and probably last time, I am entirely caught up on podcasts.</p>\n",
-			"date_published": "2018-08-27T10:36:43-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/27/for-the-first.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/27/an-interesting-economicsfocused.html",
-	      	
-			"content_html": "<p>An interesting economics-focused look at the effects of the trade in the first millennium BCE: <a href=\"https://voxeu.org/article/trade-and-growth-iron-age\">voxeu.org/article/t…</a></p>\n",
-			"date_published": "2018-08-27T09:49:59-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/27/an-interesting-economicsfocused.html"
 		}
 		
 	]
