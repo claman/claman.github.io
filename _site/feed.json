@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/14/week-of-grad.html",
+	      	
+			"content_html": "<p>Week 3 of grad school almost complete!</p>\n",
+			"date_published": "2018-09-14T15:27:13-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/14/week-of-grad.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/13/im-not-sure.html",
 	      	
 			"content_html": "<p>I’m not sure what it says about me that one of my favorite things about being a grad student is that I can check out books for the entire semester.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>I always get a nice little sense of accomplishment when I forget to set an alarm but wake up on time without it.</p>\n",
 			"date_published": "2018-08-29T08:05:58-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/29/i-always-get.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/28/swam-for-the.html",
-	      	
-			"content_html": "<p>Swam for the first time in several weeks. Didn’t do a whole lot of yardage, but I feel much better already.</p>\n",
-			"date_published": "2018-08-28T08:15:37-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/28/swam-for-the.html"
 		}
 		
 	]
