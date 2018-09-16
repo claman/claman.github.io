@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/15/nothing-like-strong.html",
+	      	
+			"content_html": "<p>Nothing like strong coffee and Latin to start out the day</p>\n",
+			"date_published": "2018-09-15T10:23:48-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/15/nothing-like-strong.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/14/week-of-grad.html",
 	      	
 			"content_html": "<p>Week 3 of grad school almost complete!</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>I have found the free coffee.</p>\n",
 			"date_published": "2018-08-29T12:34:41-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/29/i-have-found.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/29/i-always-get.html",
-	      	
-			"content_html": "<p>I always get a nice little sense of accomplishment when I forget to set an alarm but wake up on time without it.</p>\n",
-			"date_published": "2018-08-29T08:05:58-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/29/i-always-get.html"
 		}
 		
 	]
