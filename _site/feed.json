@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/16/this-was-a.html",
+	      	
+			"content_html": "<p>This was a frustratingly unproductive morning, but I’m going to take a short walk, sit down again, and try to make some progress.</p>\n",
+			"date_published": "2018-09-16T12:21:58-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/16/this-was-a.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/15/nothing-like-strong.html",
 	      	
 			"content_html": "<p>Nothing like strong coffee and Latin to start out the day</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Just got some info about a cool project that I’m going to be helping with.</p>\n",
 			"date_published": "2018-08-30T13:13:14-05:00",
 			"url": "http://micro.alexclaman.com/2018/08/30/just-got-some.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/29/i-have-found.html",
-	      	
-			"content_html": "<p>I have found the free coffee.</p>\n",
-			"date_published": "2018-08-29T12:34:41-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/29/i-have-found.html"
 		}
 		
 	]
