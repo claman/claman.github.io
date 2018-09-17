@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/16/this-was-a.html",
+	      	
+			"content_text": "This was a frustratingly unproductive morning, but I’m going to...",
+			"date_published": "2018-09-16T12:21:58-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/16/this-was-a.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/15/nothing-like-strong.html",
 	      	
 			"content_text": "Nothing like strong coffee and Latin to start out the...",
