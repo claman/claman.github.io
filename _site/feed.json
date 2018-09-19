@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/18/half-of-my.html",
+	      	
+			"content_html": "<p>Half of my house is sick, so I’m washing my hands frequently and being extra-careful in common spaces.</p>\n",
+			"date_published": "2018-09-18T13:27:58-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/18/half-of-my.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/17/today-is-one.html",
+	      	
+			"content_html": "<p>Today is one of those days where I have to hit the ground running. Hoping that my early meeting will be productive.</p>\n",
+			"date_published": "2018-09-17T07:45:43-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/17/today-is-one.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/17/sunset-clouds.html",
+	      	
+			"content_html": "<p>Sunset clouds</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/4e6777f2f1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.alexclaman.com/uploads/2018/c786d08f04.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-16T19:58:48-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/16/sunset-clouds.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/16/this-was-a.html",
 	      	
 			"content_html": "<p>This was a frustratingly unproductive morning, but I’m going to take a short walk, sit down again, and try to make some progress.</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>Other than the fact that it is rather squeaky when I lean on it, I’ve found a good desk at which to spend the next five or so hours reading through part of book 9 of the Odyssey.</p>\n",
 			"date_published": "2018-09-01T11:14:00-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/01/other-than-the.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/31/having-a-pleasantly.html",
-	      	
-			"content_html": "<p>Having a pleasantly slower start to the day, after a rather taxing week.</p>\n",
-			"date_published": "2018-08-31T08:23:06-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/31/having-a-pleasantly.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/30/i-find-it.html",
-	      	
-			"content_html": "<p>I find it amusing just how visceral a reaction I have to alarms on other people’s phones. It’s a full-body freeze, cold rush, panicked look at my own phone, and then my mind instantly starts rushing in an attempt to figure out what I’ve forgotten to do.</p>\n",
-			"date_published": "2018-08-30T13:41:13-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/30/i-find-it.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/08/30/just-got-some.html",
-	      	
-			"content_html": "<p>Just got some info about a cool project that I’m going to be helping with.</p>\n",
-			"date_published": "2018-08-30T13:13:14-05:00",
-			"url": "http://micro.alexclaman.com/2018/08/30/just-got-some.html"
 		}
 		
 	]
