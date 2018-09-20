@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/20/im-stuck-at.html",
+	      	
+			"content_html": "<p>I’m stuck at the house while the tech fixes our internet, and I can’t really get anything done until I get to campus, so I’m taking advantage of this random chunk of time to read some archaeological theory.</p>\n",
+			"date_published": "2018-09-20T08:43:58-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/20/im-stuck-at.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/19/sighted-my-first.html",
+	      	
+			"content_html": "<p>Sighted my first campus tour.</p>\n",
+			"date_published": "2018-09-19T09:54:06-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/19/sighted-my-first.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/19/coffee-drunk-and.html",
+	      	
+			"content_html": "<p>Coffee drunk and dishes washed. Ready to be productive.</p>\n",
+			"date_published": "2018-09-19T08:01:34-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/19/coffee-drunk-and.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/19/cutting-my-losses.html",
+	      	
+			"content_html": "<p>Cutting my losses and calling it an early night. The extra sleep will (hopefully) help me tomorrow.</p>\n",
+			"date_published": "2018-09-18T21:09:40-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/18/cutting-my-losses.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/18/half-of-my.html",
 	      	
 			"content_html": "<p>Half of my house is sick, so I’m washing my hands frequently and being extra-careful in common spaces.</p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p>My plan for today is to read two books.</p>\n",
 			"date_published": "2018-09-03T10:44:45-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/03/my-plan-for.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/02/so-far-im.html",
-	      	
-			"content_html": "<p>So far I’m finding the Second Philippic much easier reading than the Pro Caelio, but I will forever be glad that the latter was my introduction to Latin prose.</p>\n",
-			"date_published": "2018-09-02T11:44:26-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/02/so-far-im.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/02/some-gorgeous-clouds.html",
-	      	
-			"content_html": "<p>Some gorgeous clouds this morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/39a7aa5e2c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-02T08:22:00-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/02/some-gorgeous-clouds.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/02/001344.html",
-	      	
-			"content_html": "<p>This is my first official Saturday of grad school, which means that I spent about 6 hours today reading part of the Odyssey Book 9 in Greek, then went out for groceries, and made this salad. Next I’m going to put together a chair.</p>\n\n<p>Life is good 😄</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/972a573a14.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-01T19:13:44-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/01/001344.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/01/other-than-the.html",
-	      	
-			"content_html": "<p>Other than the fact that it is rather squeaky when I lean on it, I’ve found a good desk at which to spend the next five or so hours reading through part of book 9 of the Odyssey.</p>\n",
-			"date_published": "2018-09-01T11:14:00-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/01/other-than-the.html"
 		}
 		
 	]
