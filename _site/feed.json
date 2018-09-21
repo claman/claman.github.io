@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/21/today-already-feels.html",
+	      	
+			"content_html": "<p>Today already feels like it’s racing by.</p>\n",
+			"date_published": "2018-09-21T08:12:40-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/21/today-already-feels.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/20/im-stuck-at.html",
 	      	
 			"content_html": "<p>I’m stuck at the house while the tech fixes our internet, and I can’t really get anything done until I get to campus, so I’m taking advantage of this random chunk of time to read some archaeological theory.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p><em>Finally</em> read Story of Your Life by Ted Chiang, which inspired me to watch Arrival again. Such a sublime, thought-provoking, and cathartic experience.</p>\n",
 			"date_published": "2018-09-03T20:03:54-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/03/finally-read-story.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/03/my-plan-for.html",
-	      	
-			"content_html": "<p>My plan for today is to read two books.</p>\n",
-			"date_published": "2018-09-03T10:44:45-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/03/my-plan-for.html"
 		}
 		
 	]
