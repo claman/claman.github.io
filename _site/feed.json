@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/25/im-pretty-excited.html",
+	      	
+			"content_html": "<p>I’m pretty excited for this salad I’m about to make for dinner.</p>\n",
+			"date_published": "2018-09-25T17:16:03-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/25/im-pretty-excited.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/24/submitted-my-first.html",
+	      	
+			"content_html": "<p>Submitted my first conference abstract as a grad student! Now time to keep working on the next one…</p>\n",
+			"date_published": "2018-09-24T09:35:09-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/24/submitted-my-first.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/24/theres-just-enough.html",
 	      	
 			"content_html": "<p>There’s just enough ground fog left that the sun is catching it and making it glow. Rather ethereal.</p>\n\n<p>(Unfortunately I couldn’t get a good photo. I’ll try again tomorrow.)</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I am battling an impressive case of Friday brain.</p>\n",
 			"date_published": "2018-09-07T12:37:53-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/07/i-am-battling.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/07/man-in-the.html",
-	      	
-			"content_html": "<p>Man in the Iron Mask is a <em>good</em> film</p>\n",
-			"date_published": "2018-09-06T21:08:49-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/06/man-in-the.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/06/had-a-good.html",
-	      	
-			"content_html": "<p>Had a good discussion about authorial intent vs. guiding authorial consciousness in the context of Homer.</p>\n",
-			"date_published": "2018-09-06T16:55:45-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/06/had-a-good.html"
 		}
 		
 	]
