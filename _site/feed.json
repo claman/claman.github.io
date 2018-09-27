@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/27/one-of-my.html",
+	      	
+			"content_html": "<p>One of my friends (who’s also an alum of my current grad program) is visiting campus to give a talk tonight! Looking forward to catching up.</p>\n",
+			"date_published": "2018-09-27T13:29:32-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/27/one-of-my.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/26/its-going-to.html",
 	      	
 			"content_html": "<p>It’s going to be cold and rainy today and I could not be happier</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Time to figure out my meal planning for the coming week.</p>\n",
 			"date_published": "2018-09-09T14:17:46-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/09/time-to-figure.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/08/blustery-day.html",
-	      	
-			"content_html": "<p>Blustery day</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/4282c1051d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-08T14:45:06-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/08/blustery-day.html"
 		}
 		
 	]
