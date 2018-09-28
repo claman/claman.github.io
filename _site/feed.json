@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/28/current-mood-seething.html",
+	      	
+			"content_html": "<p>Current mood: seething rage</p>\n",
+			"date_published": "2018-09-28T10:23:31-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/28/current-mood-seething.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/27/one-of-my.html",
 	      	
 			"content_html": "<p>One of my friends (who’s also an alum of my current grad program) is visiting campus to give a talk tonight! Looking forward to catching up.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>There are some things that I actually <em>need</em> to do today, but on the other hand I’m strongly considering going down a folklore rabbit hole about kelpies, nixies, and other water-related creatures (like bunyips).</p>\n",
 			"date_published": "2018-09-10T08:55:04-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/10/there-are-some.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/09/time-to-figure.html",
-	      	
-			"content_html": "<p>Time to figure out my meal planning for the coming week.</p>\n",
-			"date_published": "2018-09-09T14:17:46-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/09/time-to-figure.html"
 		}
 		
 	]
