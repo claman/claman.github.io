@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/29/i-think-i.html",
+	      	
+			"content_html": "<p>I think I finally get paid on Monday!</p>\n",
+			"date_published": "2018-09-29T08:20:45-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/29/i-think-i.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/09/28/i-am-finding.html",
+	      	
+			"content_html": "<p>I am finding this album soothingly meditative. Maybe you will too: <a href=\"https://kristinebarrett.bandcamp.com/album/ancestors\">kristinebarrett.bandcamp.com/album/anc…</a></p>\n",
+			"date_published": "2018-09-28T13:22:01-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/28/i-am-finding.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/28/current-mood-seething.html",
 	      	
 			"content_html": "<p>Current mood: seething rage</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Back at my old academic tricks and ILLing enough to make my own mini-library</p>\n",
 			"date_published": "2018-09-11T12:41:43-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/11/back-at-my.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/10/pondering-and-planning.html",
-	      	
-			"content_html": "<p>Pondering and planning a few abstracts on various fun topics.</p>\n",
-			"date_published": "2018-09-10T17:50:46-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/10/pondering-and-planning.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/10/there-are-some.html",
-	      	
-			"content_html": "<p>There are some things that I actually <em>need</em> to do today, but on the other hand I’m strongly considering going down a folklore rabbit hole about kelpies, nixies, and other water-related creatures (like bunyips).</p>\n",
-			"date_published": "2018-09-10T08:55:04-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/10/there-are-some.html"
 		}
 		
 	]
