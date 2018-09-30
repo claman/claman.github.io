@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/09/30/more-often-than.html",
+	      	
+			"content_html": "<p>More often than not, the fact that I wrote something down to make sure that I’d find/remember it later saves me a lot of wasted time.</p>\n",
+			"date_published": "2018-09-29T20:32:53-05:00",
+			"url": "http://micro.alexclaman.com/2018/09/29/more-often-than.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/09/29/i-think-i.html",
 	      	
 			"content_html": "<p>I think I finally get paid on Monday!</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>The shelf so far (featuring a bit of tea)</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/6acbc6a6b6.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-12T13:09:44-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/12/the-shelf-so.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/11/back-at-my.html",
-	      	
-			"content_html": "<p>Back at my old academic tricks and ILLing enough to make my own mini-library</p>\n",
-			"date_published": "2018-09-11T12:41:43-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/11/back-at-my.html"
 		}
 		
 	]
