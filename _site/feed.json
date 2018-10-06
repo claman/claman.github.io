@@ -7,6 +7,46 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/06/002056.html",
+	      	
+			"content_html": "<p>Sitting in a darkened room, listening to the thunderstorm roll through.</p>\n",
+			"date_published": "2018-10-05T19:20:56-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/05/002056.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/05/new-favorite-tshirt.html",
+	      	
+			"content_html": "<p>New favorite t-shirt in my collection</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/727ef8bf6b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.alexclaman.com/uploads/2018/e91d6cdd12.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-05T08:59:28-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/05/new-favorite-tshirt.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/04/i-picked-a.html",
+	      	
+			"content_html": "<p>I picked a helluva time to try to leave campus.</p>\n",
+			"date_published": "2018-10-04T13:20:39-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/04/i-picked-a.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/03/current-status.html",
+	      	
+			"content_html": "<p>Current status:</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/e6d65076c1.jpg\" width=\"600\" height=\"375\" /></p>\n",
+			"date_published": "2018-10-03T09:27:54-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/03/current-status.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/03/new-favorite-line.html",
+	      	
+			"content_html": "<p>New favorite line from a book review: “Like Gaul, this book comprises three parts.”</p>\n",
+			"date_published": "2018-10-03T09:03:50-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/03/new-favorite-line.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/03/last-night-i.html",
 	      	
 			"content_html": "<p>Last night I dreamed that I’d gotten a couple <em>awesome</em> new tattoos, but now that I’m awake I can’t remember the designs.</p>\n",
@@ -164,46 +204,6 @@
 			"content_html": "<p>Today is one of those days where I have to hit the ground running. Hoping that my early meeting will be productive.</p>\n",
 			"date_published": "2018-09-17T07:45:43-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/17/today-is-one.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/17/sunset-clouds.html",
-	      	
-			"content_html": "<p>Sunset clouds</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/4e6777f2f1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.alexclaman.com/uploads/2018/c786d08f04.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-16T19:58:48-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/16/sunset-clouds.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/16/this-was-a.html",
-	      	
-			"content_html": "<p>This was a frustratingly unproductive morning, but I’m going to take a short walk, sit down again, and try to make some progress.</p>\n",
-			"date_published": "2018-09-16T12:21:58-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/16/this-was-a.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/15/nothing-like-strong.html",
-	      	
-			"content_html": "<p>Nothing like strong coffee and Latin to start out the day</p>\n",
-			"date_published": "2018-09-15T10:23:48-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/15/nothing-like-strong.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/14/week-of-grad.html",
-	      	
-			"content_html": "<p>Week 3 of grad school almost complete!</p>\n",
-			"date_published": "2018-09-14T15:27:13-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/14/week-of-grad.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/13/im-not-sure.html",
-	      	
-			"content_html": "<p>I’m not sure what it says about me that one of my favorite things about being a grad student is that I can check out books for the entire semester.</p>\n",
-			"date_published": "2018-09-13T17:41:54-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/13/im-not-sure.html"
 		}
 		
 	]
