@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/06/currently-on-track.html",
+	      	
+			"content_html": "<p>Currently on track for everything on my to-do list. Working to keep it that way.</p>\n",
+			"date_published": "2018-10-06T13:50:51-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/06/currently-on-track.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/06/002056.html",
 	      	
 			"content_html": "<p>Sitting in a darkened room, listening to the thunderstorm roll through.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Half of my house is sick, so I’m washing my hands frequently and being extra-careful in common spaces.</p>\n",
 			"date_published": "2018-09-18T13:27:58-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/18/half-of-my.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/17/today-is-one.html",
-	      	
-			"content_html": "<p>Today is one of those days where I have to hit the ground running. Hoping that my early meeting will be productive.</p>\n",
-			"date_published": "2018-09-17T07:45:43-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/17/today-is-one.html"
 		}
 		
 	]
