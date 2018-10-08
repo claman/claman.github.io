@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/08/the-key-to.html",
+	      	
+			"content_html": "<p>The key to this week is going to be taking it one small step at a time.</p>\n",
+			"date_published": "2018-10-08T08:23:53-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/08/the-key-to.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/07/misty-morning.html",
 	      	
 			"content_html": "<p>Misty morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/49c3a6f0f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Coffee drunk and dishes washed. Ready to be productive.</p>\n",
 			"date_published": "2018-09-19T08:01:34-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/19/coffee-drunk-and.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/19/cutting-my-losses.html",
-	      	
-			"content_html": "<p>Cutting my losses and calling it an early night. The extra sleep will (hopefully) help me tomorrow.</p>\n",
-			"date_published": "2018-09-18T21:09:40-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/18/cutting-my-losses.html"
 		}
 		
 	]
