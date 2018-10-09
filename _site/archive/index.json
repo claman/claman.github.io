@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/09/up-early-sipping.html",
+	      	
+			"content_text": "Up early, sipping coffee, listening to calm music, and looking...",
+			"date_published": "2018-10-09T06:41:17-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/09/up-early-sipping.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/08/id-completely-forgotten.html",
+	      	
+			"content_text": "I’d completely forgotten that this was happening, but this is...",
+			"date_published": "2018-10-08T08:31:04-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/08/id-completely-forgotten.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/08/the-key-to.html",
 	      	
 			"content_text": "The key to this week is going to be taking...",
