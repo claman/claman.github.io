@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/09/up-early-sipping.html",
+	      	
+			"content_html": "<p>Up early, sipping coffee, listening to calm music, and looking at Cycladic islands via Google Earth.</p>\n",
+			"date_published": "2018-10-09T06:41:17-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/09/up-early-sipping.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/08/id-completely-forgotten.html",
+	      	
+			"content_html": "<p>I’d completely forgotten that this was happening, but this is promising: <a href=\"https://www.tor.com/2018/10/07/what-we-do-in-the-shadows-spin-off-pilot-first-impressions-new-york-comic-con-2018/\">www.tor.com/2018/10/0…</a></p>\n",
+			"date_published": "2018-10-08T08:31:04-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/08/id-completely-forgotten.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/08/the-key-to.html",
 	      	
 			"content_html": "<p>The key to this week is going to be taking it one small step at a time.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I’m stuck at the house while the tech fixes our internet, and I can’t really get anything done until I get to campus, so I’m taking advantage of this random chunk of time to read some archaeological theory.</p>\n",
 			"date_published": "2018-09-20T08:43:58-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/20/im-stuck-at.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/19/sighted-my-first.html",
-	      	
-			"content_html": "<p>Sighted my first campus tour.</p>\n",
-			"date_published": "2018-09-19T09:54:06-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/19/sighted-my-first.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/19/coffee-drunk-and.html",
-	      	
-			"content_html": "<p>Coffee drunk and dishes washed. Ready to be productive.</p>\n",
-			"date_published": "2018-09-19T08:01:34-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/19/coffee-drunk-and.html"
 		}
 		
 	]
