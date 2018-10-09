@@ -1,0 +1,8 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-10-09 06:41:17 -0500
+guid: http://aclaman.micro.blog/2018/10/09/up-early-sipping.html
+---
+Up early, sipping coffee, listening to calm music, and looking at Cycladic islands via Google Earth.
