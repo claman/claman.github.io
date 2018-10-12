@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/12/in-a-classic.html",
+	      	
+			"content_html": "<p>In a classic move, I walked into the library to find and checkout one book.</p>\n\n<p>I walked out with five.</p>\n",
+			"date_published": "2018-10-12T16:19:17-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/12/in-a-classic.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/09/well-thats-a.html",
+	      	
+			"content_html": "<p>Well, that’s a first: Microsoft Word just informed me that the document I’m working in has so many grammar/spelling mistakes that it’s not going to display them any more.</p>\n",
+			"date_published": "2018-10-09T13:11:19-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/09/well-thats-a.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/09/up-early-sipping.html",
 	      	
 			"content_html": "<p>Up early, sipping coffee, listening to calm music, and looking at Cycladic islands via Google Earth.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I honestly really enjoy meal planning and grocery shopping. I get a pleasant feeling of accomplishment.</p>\n",
 			"date_published": "2018-09-22T16:45:46-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/22/i-honestly-really.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/21/today-already-feels.html",
-	      	
-			"content_html": "<p>Today already feels like it’s racing by.</p>\n",
-			"date_published": "2018-09-21T08:12:40-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/21/today-already-feels.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/20/im-stuck-at.html",
-	      	
-			"content_html": "<p>I’m stuck at the house while the tech fixes our internet, and I can’t really get anything done until I get to campus, so I’m taking advantage of this random chunk of time to read some archaeological theory.</p>\n",
-			"date_published": "2018-09-20T08:43:58-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/20/im-stuck-at.html"
 		}
 		
 	]
