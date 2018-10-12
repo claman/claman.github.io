@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/12/in-a-classic.html",
+	      	
+			"content_text": "In a classic move, I walked into the library to...",
+			"date_published": "2018-10-12T16:19:17-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/12/in-a-classic.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/09/well-thats-a.html",
+	      	
+			"content_text": "Well, that’s a first: Microsoft Word just informed me that...",
+			"date_published": "2018-10-09T13:11:19-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/09/well-thats-a.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/09/up-early-sipping.html",
 	      	
 			"content_text": "Up early, sipping coffee, listening to calm music, and looking...",
