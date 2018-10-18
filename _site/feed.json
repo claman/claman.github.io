@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/18/counting-down-the.html",
+	      	
+			"content_html": "<p>Counting down the minutes until I can head home and burrow under a blanket with some tea to nurse this head-cold. Hopefully if I take it easy for the next few days it will pass quickly.</p>\n",
+			"date_published": "2018-10-18T13:21:13-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/18/counting-down-the.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/14/this-chapter-is.html",
+	      	
+			"content_html": "<p>This chapter is 33 pages long. I am on page 6, and footnotes are already up to 31.</p>\n",
+			"date_published": "2018-10-14T15:41:24-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/14/this-chapter-is.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/14/im-always-impressed.html",
 	      	
 			"content_html": "<p>I’m always impressed just how much a good night of sleep improves my productivity and outlook.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>I’m pretty excited for this salad I’m about to make for dinner.</p>\n",
 			"date_published": "2018-09-25T17:16:03-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/25/im-pretty-excited.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/24/submitted-my-first.html",
-	      	
-			"content_html": "<p>Submitted my first conference abstract as a grad student! Now time to keep working on the next one…</p>\n",
-			"date_published": "2018-09-24T09:35:09-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/24/submitted-my-first.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/24/theres-just-enough.html",
-	      	
-			"content_html": "<p>There’s just enough ground fog left that the sun is catching it and making it glow. Rather ethereal.</p>\n\n<p>(Unfortunately I couldn’t get a good photo. I’ll try again tomorrow.)</p>\n",
-			"date_published": "2018-09-24T07:57:02-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/24/theres-just-enough.html"
 		}
 		
 	]
