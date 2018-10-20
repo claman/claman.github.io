@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/20/current-dilemma-im.html",
+	      	
+			"content_html": "<p>Current dilemma: I’m actually pretty excited for Daredevil S3, but if I start it it will probably take me a minimum of four weeks to finish it. And then The Chilling Adventures of Sabrina is coming out this Friday…</p>\n",
+			"date_published": "2018-10-20T08:35:19-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/20/current-dilemma-im.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/19/tonights-background-movie.html",
+	      	
+			"content_html": "<p>Tonight’s background movie: The Golden Compass.</p>\n",
+			"date_published": "2018-10-18T19:43:20-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/18/tonights-background-movie.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/18/counting-down-the.html",
 	      	
 			"content_html": "<p>Counting down the minutes until I can head home and burrow under a blanket with some tea to nurse this head-cold. Hopefully if I take it easy for the next few days it will pass quickly.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>One of my friends (who’s also an alum of my current grad program) is visiting campus to give a talk tonight! Looking forward to catching up.</p>\n",
 			"date_published": "2018-09-27T13:29:32-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/27/one-of-my.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/26/its-going-to.html",
-	      	
-			"content_html": "<p>It’s going to be cold and rainy today and I could not be happier</p>\n",
-			"date_published": "2018-09-26T07:36:18-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/26/its-going-to.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/25/im-pretty-excited.html",
-	      	
-			"content_html": "<p>I’m pretty excited for this salad I’m about to make for dinner.</p>\n",
-			"date_published": "2018-09-25T17:16:03-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/25/im-pretty-excited.html"
 		}
 		
 	]
