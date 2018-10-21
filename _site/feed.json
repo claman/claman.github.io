@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/10/21/well-i-guess.html",
+	      	
+			"content_html": "<p>Well I guess it’s time to be awake then.</p>\n",
+			"date_published": "2018-10-21T05:49:13-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/21/well-i-guess.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/20/current-dilemma-im.html",
 	      	
 			"content_html": "<p>Current dilemma: I’m actually pretty excited for Daredevil S3, but if I start it it will probably take me a minimum of four weeks to finish it. And then The Chilling Adventures of Sabrina is coming out this Friday…</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Current mood: seething rage</p>\n",
 			"date_published": "2018-09-28T10:23:31-05:00",
 			"url": "http://micro.alexclaman.com/2018/09/28/current-mood-seething.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/09/27/one-of-my.html",
-	      	
-			"content_html": "<p>One of my friends (who’s also an alum of my current grad program) is visiting campus to give a talk tonight! Looking forward to catching up.</p>\n",
-			"date_published": "2018-09-27T13:29:32-05:00",
-			"url": "http://micro.alexclaman.com/2018/09/27/one-of-my.html"
 		}
 		
 	]
