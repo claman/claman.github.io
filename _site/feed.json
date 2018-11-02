@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/02/154439.html",
+	      	
+			"content_html": "<p>Today is a good day.</p>\n",
+			"date_published": "2018-11-02T10:44:39-05:00",
+			"url": "http://micro.alexclaman.com/2018/11/02/154439.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/30/colors.html",
+	      	
+			"content_html": "<p>Colors</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/8925096346.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-30T07:53:47-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/30/colors.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/10/29/i-am-currently.html",
+	      	
+			"content_html": "<p>I am currently attempting to figure out if I can fit a 700-page book into my four days of Thanksgiving vacation, while still having plenty of time to spend with my family…there’s a decent chance that it could work</p>\n",
+			"date_published": "2018-10-29T12:41:16-05:00",
+			"url": "http://micro.alexclaman.com/2018/10/29/i-am-currently.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/10/29/130116.html",
 	      	
 			"content_html": "<p>Morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/a1ee68c25b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>Current status:</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/e6d65076c1.jpg\" width=\"600\" height=\"375\" /></p>\n",
 			"date_published": "2018-10-03T09:27:54-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/03/current-status.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/03/new-favorite-line.html",
-	      	
-			"content_html": "<p>New favorite line from a book review: “Like Gaul, this book comprises three parts.”</p>\n",
-			"date_published": "2018-10-03T09:03:50-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/03/new-favorite-line.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/03/last-night-i.html",
-	      	
-			"content_html": "<p>Last night I dreamed that I’d gotten a couple <em>awesome</em> new tattoos, but now that I’m awake I can’t remember the designs.</p>\n",
-			"date_published": "2018-10-03T08:24:47-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/03/last-night-i.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/01/165450.html",
-	      	
-			"content_html": "<p>Today is one of those days where I’m perpetually busy. If I have unscheduled time, I’m either scheduling something during it, or working on a project.</p>\n",
-			"date_published": "2018-10-01T11:54:50-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/01/165450.html"
 		}
 		
 	]
