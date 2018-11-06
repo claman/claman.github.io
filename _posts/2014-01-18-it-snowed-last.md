@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-01-18 13:10:16 -0500
+date: 2014-01-18 12:10:16 -0600
 guid: http://aclaman.micro.blog/2014/01/18/it-snowed-last.html
 ---
 It snowed last night.
