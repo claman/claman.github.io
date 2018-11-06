@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-07-02 01:31:20 -0500
+date: 2016-07-02 00:31:20 -0600
 guid: http://aclaman.micro.blog/2016/07/02/harbor-view.html
 ---
 Harbor view
