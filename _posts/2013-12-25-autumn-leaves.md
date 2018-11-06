@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2013-12-25 00:16:17 -0500
+date: 2013-12-24 23:16:17 -0600
 guid: http://aclaman.micro.blog/2013/12/25/autumn-leaves.html
 ---
 Autumn leaves
