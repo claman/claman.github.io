@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-02-03 23:58:49 -0500
+date: 2016-02-03 22:58:49 -0600
 guid: http://aclaman.micro.blog/2016/02/04/too-many-books.html
 ---
 Too many books
