@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-05 08:59:28 -0500
+date: 2018-10-05 07:59:28 -0600
 guid: http://aclaman.micro.blog/2018/10/05/new-favorite-tshirt.html
 ---
 New favorite t-shirt in my collection
