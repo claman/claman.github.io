@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-28 16:56:05 -0500
+date: 2018-07-28 15:56:05 -0600
 guid: http://aclaman.micro.blog/2018/07/28/todays-used-bookstore.html
 ---
 Today’s used bookstore find
