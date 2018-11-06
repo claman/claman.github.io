@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/06/doing-my-best.html",
+	      	
+			"content_html": "<p>Doing my best to avoid the news today (I did vote though!)</p>\n",
+			"date_published": "2018-11-06T09:19:23-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/06/doing-my-best.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/06/this-is-the.html",
+	      	
+			"content_html": "<p>This is the second night in a row that I’ve sat down to do some work, and had my roommate’s cat jump onto my lap and curl up, purring quietly.</p>\n\n<p>I am in no way complaining about this turn of events, merely reporting the facts. (Plus the cat makes for a good study partner).</p>\n",
+			"date_published": "2018-11-05T19:52:39-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/05/this-is-the.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/05/193854.html",
 	      	
 			"content_html": "<p>Intriguing: <a href=\"https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/\">www.theatlantic.com/technolog…</a></p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>The key to this week is going to be taking it one small step at a time.</p>\n",
 			"date_published": "2018-10-08T08:23:53-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/08/the-key-to.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/07/misty-morning.html",
-	      	
-			"content_html": "<p>Misty morning</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/49c3a6f0f8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-07T08:03:37-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/07/misty-morning.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/06/currently-on-track.html",
-	      	
-			"content_html": "<p>Currently on track for everything on my to-do list. Working to keep it that way.</p>\n",
-			"date_published": "2018-10-06T13:50:51-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/06/currently-on-track.html"
 		}
 		
 	]
