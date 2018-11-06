@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-03 09:27:54 -0500
+date: 2018-10-03 08:27:54 -0600
 guid: http://aclaman.micro.blog/2018/10/03/current-status.html
 ---
 Current status: 
