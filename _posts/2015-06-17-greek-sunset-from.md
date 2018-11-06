@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-06-17 13:11:09 -0500
+date: 2015-06-17 12:11:09 -0600
 guid: http://aclaman.micro.blog/2015/06/17/greek-sunset-from.html
 ---
 Greek sunset from Alepochori
