@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-09-03 13:34:27 -0500
+date: 2016-09-03 12:34:27 -0600
 guid: http://aclaman.micro.blog/2016/09/03/driving-through-the.html
 ---
 Driving through the mountains
