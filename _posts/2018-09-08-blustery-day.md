@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-08 14:45:06 -0500
+date: 2018-09-08 13:45:06 -0600
 guid: http://aclaman.micro.blog/2018/09/08/blustery-day.html
 ---
 Blustery day
