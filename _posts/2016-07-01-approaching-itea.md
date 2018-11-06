@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-07-01 10:47:43 -0500
+date: 2016-07-01 09:47:43 -0600
 guid: http://aclaman.micro.blog/2016/07/01/approaching-itea.html
 ---
 Approaching Itea
