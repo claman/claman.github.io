@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2014-03-29 08:39:44 -0500
+date: 2014-03-29 07:39:44 -0600
 guid: http://aclaman.micro.blog/2014/03/29/three-twins-for.html
 ---
 Three Twins for breakfast
