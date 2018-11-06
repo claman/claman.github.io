@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-16 19:58:48 -0500
+date: 2018-09-16 18:58:48 -0600
 guid: http://aclaman.micro.blog/2018/09/17/sunset-clouds.html
 ---
 Sunset clouds
