@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-09-07 12:40:44 -0500
+date: 2016-09-07 11:40:44 -0600
 guid: http://aclaman.micro.blog/2016/09/07/i-found-goats.html
 ---
 I found goats
