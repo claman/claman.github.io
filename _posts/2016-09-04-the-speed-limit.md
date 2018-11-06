@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-09-03 20:06:57 -0500
+date: 2016-09-03 19:06:57 -0600
 guid: http://aclaman.micro.blog/2016/09/04/the-speed-limit.html
 ---
 The speed limit here is 80
