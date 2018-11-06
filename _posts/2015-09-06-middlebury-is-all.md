@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-09-06 08:05:47 -0500
+date: 2015-09-06 07:05:47 -0600
 guid: http://aclaman.micro.blog/2015/09/06/middlebury-is-all.html
 ---
 Middlebury is all right.
