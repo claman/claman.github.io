@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-01-19 12:12:44 -0500
+date: 2016-01-19 11:12:44 -0600
 guid: http://aclaman.micro.blog/2016/01/19/mildly-adorable.html
 ---
 Mildly adorable.
