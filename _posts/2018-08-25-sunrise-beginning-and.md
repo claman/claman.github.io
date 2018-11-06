@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-25 07:26:10 -0500
+date: 2018-08-25 06:26:10 -0600
 guid: http://aclaman.micro.blog/2018/08/25/sunrise-beginning-and.html
 ---
 Sunrise: beginning and in-progress
