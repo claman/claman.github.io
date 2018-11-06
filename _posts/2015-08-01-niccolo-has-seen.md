@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-08-01 08:42:02 -0500
+date: 2015-08-01 07:42:02 -0600
 guid: http://aclaman.micro.blog/2015/08/01/niccolo-has-seen.html
 ---
 Niccolo has seen better days
