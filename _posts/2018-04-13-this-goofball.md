@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-13 12:21:13 -0500
+date: 2018-04-13 11:21:13 -0600
 guid: http://aclaman.micro.blog/2018/04/13/this-goofball.html
 ---
 This goofball
