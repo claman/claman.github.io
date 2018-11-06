@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-07 08:03:37 -0500
+date: 2018-10-07 07:03:37 -0600
 guid: http://aclaman.micro.blog/2018/10/07/misty-morning.html
 ---
 Misty morning
