@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-11-03 08:28:08 -0500
+date: 2016-11-03 07:28:08 -0600
 guid: http://aclaman.micro.blog/2016/11/03/clouds-this-morning.html
 ---
 Clouds this morning
