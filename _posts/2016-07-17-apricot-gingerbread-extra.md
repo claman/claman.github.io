@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-07-17 11:10:08 -0500
+date: 2016-07-17 10:10:08 -0600
 guid: http://aclaman.micro.blog/2016/07/17/apricot-gingerbread-extra.html
 ---
 Apricot + gingerbread + extra bitter cocoa
