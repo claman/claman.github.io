@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/06/doing-my-best.html",
+	      	
+			"content_text": "Doing my best to avoid the news today (I did...",
+			"date_published": "2018-11-06T09:19:23-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/06/doing-my-best.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/06/this-is-the.html",
+	      	
+			"content_text": "This is the second night in a row that I’ve...",
+			"date_published": "2018-11-05T19:52:39-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/05/this-is-the.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/05/193854.html",
 	      	
 			"content_text": "Intriguing: www.theatlantic.com/technolog…\n",
