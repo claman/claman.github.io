@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-12 13:09:44 -0500
+date: 2018-09-12 12:09:44 -0600
 guid: http://aclaman.micro.blog/2018/09/12/the-shelf-so.html
 ---
 The shelf so far (featuring a bit of tea)
