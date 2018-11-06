@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2015-09-08 06:43:16 -0500
+date: 2015-09-08 05:43:16 -0600
 guid: http://aclaman.micro.blog/2015/09/08/sunrise-this-morning.html
 ---
 Sunrise this morning
