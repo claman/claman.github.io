@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/12/monday-that-is.html",
+	      	
+			"content_html": "<p>Monday.</p>\n\n<p>That is all.</p>\n",
+			"date_published": "2018-11-12T12:28:44-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/12/monday-that-is.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/06/doing-my-best.html",
 	      	
 			"content_html": "<p>Doing my best to avoid the news today (I did vote though!)</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>I’d completely forgotten that this was happening, but this is promising: <a href=\"https://www.tor.com/2018/10/07/what-we-do-in-the-shadows-spin-off-pilot-first-impressions-new-york-comic-con-2018/\">www.tor.com/2018/10/0…</a></p>\n",
 			"date_published": "2018-10-08T08:31:04-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/08/id-completely-forgotten.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/08/the-key-to.html",
-	      	
-			"content_html": "<p>The key to this week is going to be taking it one small step at a time.</p>\n",
-			"date_published": "2018-10-08T08:23:53-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/08/the-key-to.html"
 		}
 		
 	]
