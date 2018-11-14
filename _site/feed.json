@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/14/real-talk-i.html",
+	      	
+			"content_html": "<p>Real talk: I have been ready for Thanksgiving break for at least a week and a half.</p>\n",
+			"date_published": "2018-11-14T08:39:12-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/14/real-talk-i.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/13/the-cat-has.html",
+	      	
+			"content_html": "<p>The cat has fallen asleep on my lap again, I’m feeling good about tomorrow’s test, and I’m on track to get enough sleep tonight. Life is pretty good.</p>\n",
+			"date_published": "2018-11-12T18:01:12-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/12/the-cat-has.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/12/monday-that-is.html",
 	      	
 			"content_html": "<p>Monday.</p>\n\n<p>That is all.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Well, that’s a first: Microsoft Word just informed me that the document I’m working in has so many grammar/spelling mistakes that it’s not going to display them any more.</p>\n",
 			"date_published": "2018-10-09T13:11:19-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/09/well-thats-a.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/09/up-early-sipping.html",
-	      	
-			"content_html": "<p>Up early, sipping coffee, listening to calm music, and looking at Cycladic islands via Google Earth.</p>\n",
-			"date_published": "2018-10-09T06:41:17-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/09/up-early-sipping.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/08/id-completely-forgotten.html",
-	      	
-			"content_html": "<p>I’d completely forgotten that this was happening, but this is promising: <a href=\"https://www.tor.com/2018/10/07/what-we-do-in-the-shadows-spin-off-pilot-first-impressions-new-york-comic-con-2018/\">www.tor.com/2018/10/0…</a></p>\n",
-			"date_published": "2018-10-08T08:31:04-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/08/id-completely-forgotten.html"
 		}
 		
 	]
