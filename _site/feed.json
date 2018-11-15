@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/15/only-more-days.html",
+	      	
+			"content_html": "<p>Only 4 more days of classes before Thanksgiving break!</p>\n",
+			"date_published": "2018-11-15T07:57:47-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/15/only-more-days.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/14/the-narrative-form.html",
+	      	
+			"content_html": "<blockquote>\n  <p>“The narrative form becomes a map in which the supposed facts sit as landmarks, with sentences and imagery as direction and the topography a memory of the shape a story can make inside one’s head”</p>\n</blockquote>\n",
+			"date_published": "2018-11-14T13:09:13-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/14/the-narrative-form.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/14/sometimes-i-just.html",
+	      	
+			"content_html": "<p>Sometimes I just have to take a step back and reflect on how profoundly grateful I am for the existence of books of all stripes.</p>\n",
+			"date_published": "2018-11-14T12:46:22-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/14/sometimes-i-just.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/14/if-its-alright.html",
+	      	
+			"content_html": "<p>If it’s alright, I would like to not send any emails for the next hour, seeing as I have just spent the past hour doing so.</p>\n",
+			"date_published": "2018-11-14T09:29:58-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/14/if-its-alright.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/14/real-talk-i.html",
 	      	
 			"content_html": "<p>Real talk: I have been ready for Thanksgiving break for at least a week and a half.</p>\n",
@@ -172,38 +204,6 @@
 			"content_html": "<p>This chapter is 33 pages long. I am on page 6, and footnotes are already up to 31.</p>\n",
 			"date_published": "2018-10-14T15:41:24-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/14/this-chapter-is.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/14/im-always-impressed.html",
-	      	
-			"content_html": "<p>I’m always impressed just how much a good night of sleep improves my productivity and outlook.</p>\n",
-			"date_published": "2018-10-14T09:30:46-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/14/im-always-impressed.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/12/well-looks-like.html",
-	      	
-			"content_html": "<p>Well, looks like I’m going to be teaching myself enough French to muddle through some articles. Now to figure out how/when that will happen…</p>\n",
-			"date_published": "2018-10-12T16:25:16-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/12/well-looks-like.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/12/in-a-classic.html",
-	      	
-			"content_html": "<p>In a classic move, I walked into the library to find and checkout one book.</p>\n\n<p>I walked out with five.</p>\n",
-			"date_published": "2018-10-12T16:19:17-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/12/in-a-classic.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/09/well-thats-a.html",
-	      	
-			"content_html": "<p>Well, that’s a first: Microsoft Word just informed me that the document I’m working in has so many grammar/spelling mistakes that it’s not going to display them any more.</p>\n",
-			"date_published": "2018-10-09T13:11:19-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/09/well-thats-a.html"
 		}
 		
 	]
