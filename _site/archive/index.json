@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/16/today-is-pleasantly.html",
+	      	
+			"content_text": "Today is pleasantly crisp.\n",
+			"date_published": "2018-11-16T08:54:49-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/16/today-is-pleasantly.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/15/only-more-days.html",
 	      	
 			"content_text": "Only 4 more days of classes before Thanksgiving break!\n",
