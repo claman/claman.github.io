@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/16/today-is-pleasantly.html",
+	      	
+			"content_html": "<p>Today is pleasantly crisp.</p>\n",
+			"date_published": "2018-11-16T08:54:49-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/16/today-is-pleasantly.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/15/only-more-days.html",
 	      	
 			"content_html": "<p>Only 4 more days of classes before Thanksgiving break!</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Counting down the minutes until I can head home and burrow under a blanket with some tea to nurse this head-cold. Hopefully if I take it easy for the next few days it will pass quickly.</p>\n",
 			"date_published": "2018-10-18T13:21:13-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/18/counting-down-the.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/14/this-chapter-is.html",
-	      	
-			"content_html": "<p>This chapter is 33 pages long. I am on page 6, and footnotes are already up to 31.</p>\n",
-			"date_published": "2018-10-14T15:41:24-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/14/this-chapter-is.html"
 		}
 		
 	]
