@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/18/time-to-finish.html",
+	      	
+			"content_html": "<p>Time to finish a book</p>\n",
+			"date_published": "2018-11-18T06:58:58-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/18/time-to-finish.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/16/today-is-pleasantly.html",
 	      	
 			"content_html": "<p>Today is pleasantly crisp.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Tonight’s background movie: The Golden Compass.</p>\n",
 			"date_published": "2018-10-18T19:43:20-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/18/tonights-background-movie.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/18/counting-down-the.html",
-	      	
-			"content_html": "<p>Counting down the minutes until I can head home and burrow under a blanket with some tea to nurse this head-cold. Hopefully if I take it easy for the next few days it will pass quickly.</p>\n",
-			"date_published": "2018-10-18T13:21:13-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/18/counting-down-the.html"
 		}
 		
 	]
