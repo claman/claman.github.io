@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-18 00:28:42 -0600
 guid: http://aclaman.micro.blog/2018/05/18/that-feeling-when.html
 ---
