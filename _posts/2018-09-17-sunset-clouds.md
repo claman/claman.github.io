@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.alexclaman.com/uploads/2018/c786d08f04.jpg
 date: 2018-09-16 18:58:48 -0600
 guid: http://aclaman.micro.blog/2018/09/17/sunset-clouds.html
 ---
