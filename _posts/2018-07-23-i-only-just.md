@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-23 13:10:17 -0600
 guid: http://aclaman.micro.blog/2018/07/23/i-only-just.html
 ---
