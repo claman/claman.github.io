@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-28 12:22:01 -0600
 guid: http://aclaman.micro.blog/2018/09/28/i-am-finding.html
 ---
