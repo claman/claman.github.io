@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 12:46:22 -0600
 guid: http://aclaman.micro.blog/2018/11/14/sometimes-i-just.html
 ---
