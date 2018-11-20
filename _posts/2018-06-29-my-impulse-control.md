@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-28 22:36:49 -0600
 guid: http://aclaman.micro.blog/2018/06/29/my-impulse-control.html
 ---
