@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-20 07:35:19 -0600
 guid: http://aclaman.micro.blog/2018/10/20/current-dilemma-im.html
 ---
