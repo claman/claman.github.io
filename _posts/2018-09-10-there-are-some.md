@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 07:55:04 -0600
 guid: http://aclaman.micro.blog/2018/09/10/there-are-some.html
 ---
