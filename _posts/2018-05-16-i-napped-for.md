@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-16 17:18:40 -0600
 guid: http://aclaman.micro.blog/2018/05/16/i-napped-for.html
 ---
