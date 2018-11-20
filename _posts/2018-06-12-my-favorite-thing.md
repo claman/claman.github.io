@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-11 23:47:00 -0600
 guid: http://aclaman.micro.blog/2018/06/12/my-favorite-thing.html
 ---
