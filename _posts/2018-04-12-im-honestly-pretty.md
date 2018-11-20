@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-12 07:25:38 -0600
 guid: http://aclaman.micro.blog/2018/04/12/im-honestly-pretty.html
 ---
