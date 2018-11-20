@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 16:41:54 -0600
 guid: http://aclaman.micro.blog/2018/09/13/im-not-sure.html
 ---
