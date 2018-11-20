@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-31 08:22:45 -0600
 guid: http://aclaman.micro.blog/2018/07/31/that-warm-fuzzy.html
 ---
