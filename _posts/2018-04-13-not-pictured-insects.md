@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.alexclaman.com/uploads/2018/bd1c838d6e.jpg
 date: 2018-04-13 13:27:03 -0600
 guid: http://aclaman.micro.blog/2018/04/13/not-pictured-insects.html
 ---
