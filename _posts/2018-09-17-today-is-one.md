@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-17 06:45:43 -0600
 guid: http://aclaman.micro.blog/2018/09/17/today-is-one.html
 ---
