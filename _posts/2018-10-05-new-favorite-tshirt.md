@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.alexclaman.com/uploads/2018/e91d6cdd12.jpg
 date: 2018-10-05 07:59:28 -0600
 guid: http://aclaman.micro.blog/2018/10/05/new-favorite-tshirt.html
 ---
