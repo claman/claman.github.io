@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-14 16:55:55 -0600
 guid: http://aclaman.micro.blog/2018/07/14/just-saw-sorry.html
 ---
