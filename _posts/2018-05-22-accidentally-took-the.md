@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.alexclaman.com/uploads/2018/134d1a3667.jpg
 date: 2018-05-22 15:43:39 -0600
 guid: http://aclaman.micro.blog/2018/05/22/accidentally-took-the.html
 ---
