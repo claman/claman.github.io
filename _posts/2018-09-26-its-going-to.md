@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 06:36:18 -0600
 guid: http://aclaman.micro.blog/2018/09/26/its-going-to.html
 ---
