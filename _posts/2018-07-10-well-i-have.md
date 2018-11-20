@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-10 09:54:50 -0600
 guid: http://aclaman.micro.blog/2018/07/10/well-i-have.html
 ---
