@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-01 10:14:00 -0600
 guid: http://aclaman.micro.blog/2018/09/01/other-than-the.html
 ---
