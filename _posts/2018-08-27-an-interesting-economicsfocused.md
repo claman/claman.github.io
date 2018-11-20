@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-27 08:49:59 -0600
 guid: http://aclaman.micro.blog/2018/08/27/an-interesting-economicsfocused.html
 ---
