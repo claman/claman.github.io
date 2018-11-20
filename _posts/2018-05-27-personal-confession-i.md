@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-27 15:20:55 -0600
 guid: http://aclaman.micro.blog/2018/05/27/personal-confession-i.html
 ---
