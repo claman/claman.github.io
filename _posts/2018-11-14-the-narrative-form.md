@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 13:09:13 -0600
 guid: http://aclaman.micro.blog/2018/11/14/the-narrative-form.html
 ---
