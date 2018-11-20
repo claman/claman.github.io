@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/20/i-finished-watching.html",
+	      	
+			"content_html": "<p>I finished watching She-Ra and the Princesses of Power on Sunday.</p>\n\n<p>I fully intend to start rewatching it tomorrow once I’m actually on break.</p>\n",
+			"date_published": "2018-11-20T13:16:33-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/20/i-finished-watching.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/18/time-to-finish.html",
 	      	
 			"content_html": "<p>Time to finish a book</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Current dilemma: I’m actually pretty excited for Daredevil S3, but if I start it it will probably take me a minimum of four weeks to finish it. And then The Chilling Adventures of Sabrina is coming out this Friday…</p>\n",
 			"date_published": "2018-10-20T08:35:19-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/20/current-dilemma-im.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/19/tonights-background-movie.html",
-	      	
-			"content_html": "<p>Tonight’s background movie: The Golden Compass.</p>\n",
-			"date_published": "2018-10-18T19:43:20-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/18/tonights-background-movie.html"
 		}
 		
 	]
