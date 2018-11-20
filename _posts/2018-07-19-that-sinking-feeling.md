@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-19 13:05:29 -0600
 guid: http://aclaman.micro.blog/2018/07/19/that-sinking-feeling.html
 ---
