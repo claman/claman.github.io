@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-05 19:52:39 -0600
 guid: http://aclaman.micro.blog/2018/11/06/this-is-the.html
 ---
