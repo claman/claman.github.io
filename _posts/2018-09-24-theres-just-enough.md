@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-24 06:57:02 -0600
 guid: http://aclaman.micro.blog/2018/09/24/theres-just-enough.html
 ---
