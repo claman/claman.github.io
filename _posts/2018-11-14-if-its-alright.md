@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 09:29:58 -0600
 guid: http://aclaman.micro.blog/2018/11/14/if-its-alright.html
 ---
