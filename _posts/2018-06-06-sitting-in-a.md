@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-06 13:19:19 -0600
 guid: http://aclaman.micro.blog/2018/06/06/sitting-in-a.html
 ---
