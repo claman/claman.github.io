@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-11 10:35:15 -0600
 guid: http://aclaman.micro.blog/2018/05/11/only-in-the.html
 ---
