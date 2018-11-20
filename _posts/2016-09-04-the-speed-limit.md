@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.alexclaman.com/uploads/2018/89ef3d6fa0.jpg
 date: 2016-09-03 19:06:57 -0600
 guid: http://aclaman.micro.blog/2016/09/04/the-speed-limit.html
 ---
