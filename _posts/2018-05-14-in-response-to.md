@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-13 22:31:53 -0600
 guid: http://aclaman.micro.blog/2018/05/14/in-response-to.html
 ---
