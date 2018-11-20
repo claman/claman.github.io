@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-27 11:07:13 -0600
 guid: http://aclaman.micro.blog/2018/05/27/this-morning-i.html
 ---
