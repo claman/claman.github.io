@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-04 10:28:16 -0600
 guid: http://aclaman.micro.blog/2018/06/04/today-is-the.html
 ---
