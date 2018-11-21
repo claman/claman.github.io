@@ -9,7 +9,8 @@ permalink: /photos/index.json
 	"home_page_url": "{{ site.url }}/",
 	"feed_url": "{{ site.url }}/photos/index.json",
 	"items": [
-		{% for post in site.posts %}{% if post.photo contains "jpg" %}{
+		{% assign photo_posts = site.posts | where_exp: "post", "post.photo contains 'jpg'" %}
+		{% for post in photo_posts %}{
 			"id": "{{ post.guid }}",
 			{% if post.microblog == false %}
 			"title": {{ post.title | jsonify }},
@@ -22,6 +23,6 @@ permalink: /photos/index.json
 				"thumbnail_url": "https://photos.micro.blog/400/{{post.photo}}"
 			}
 		}{% if forloop.last == false %},
-		{% endif %}{% endif %}{% endfor %}
+		{% endif %}{% endfor %}
 	]
 }
