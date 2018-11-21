@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/21/landed-safely-papers.html",
+	      	
+			"content_html": "<p>Landed safely! Papers are graded and statements are drafted. Soon: sleep.</p>\n",
+			"date_published": "2018-11-21T01:37:31-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/21/landed-safely-papers.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/21/waiting-for-my.html",
+	      	
+			"content_html": "<p>Waiting for my flight home for Thanksgiving! Going to spend the time in the air grading papers and working on statements, because I know how to party.</p>\n",
+			"date_published": "2018-11-20T19:08:27-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/20/waiting-for-my.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/20/i-finished-watching.html",
 	      	
 			"content_html": "<p>I finished watching She-Ra and the Princesses of Power on Sunday.</p>\n\n<p>I fully intend to start rewatching it tomorrow once I’m actually on break.</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>If today goes according to plan, I’m going to be reading…for so many hours…either Greek, Latin, or academic articles</p>\n",
 			"date_published": "2018-10-21T08:23:55-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/21/if-today-goes.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/21/well-i-guess.html",
-	      	
-			"content_html": "<p>Well I guess it’s time to be awake then.</p>\n",
-			"date_published": "2018-10-21T05:49:13-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/21/well-i-guess.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/20/current-dilemma-im.html",
-	      	
-			"content_html": "<p>Current dilemma: I’m actually pretty excited for Daredevil S3, but if I start it it will probably take me a minimum of four weeks to finish it. And then The Chilling Adventures of Sabrina is coming out this Friday…</p>\n",
-			"date_published": "2018-10-20T08:35:19-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/20/current-dilemma-im.html"
 		}
 		
 	]
