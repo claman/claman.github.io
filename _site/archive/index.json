@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/22/its-dog-walking.html",
+	      	
+			"content_text": "It’s dog walking time!!\n",
+			"date_published": "2018-11-21T19:17:51-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/21/its-dog-walking.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/21/landed-safely-papers.html",
 	      	
 			"content_text": "Landed safely! Papers are graded and statements are drafted. Soon:...",
