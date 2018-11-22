@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/22/its-dog-walking.html",
+	      	
+			"content_html": "<p>It’s dog walking time!!</p>\n",
+			"date_published": "2018-11-21T19:17:51-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/21/its-dog-walking.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/21/landed-safely-papers.html",
 	      	
 			"content_html": "<p>Landed safely! Papers are graded and statements are drafted. Soon: sleep.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Tomorrow is the first hurdle to clear, then I get a bit of breathing room before Friday.</p>\n",
 			"date_published": "2018-10-22T13:37:46-05:00",
 			"url": "http://micro.alexclaman.com/2018/10/22/tomorrow-is-the.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/21/if-today-goes.html",
-	      	
-			"content_html": "<p>If today goes according to plan, I’m going to be reading…for so many hours…either Greek, Latin, or academic articles</p>\n",
-			"date_published": "2018-10-21T08:23:55-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/21/if-today-goes.html"
 		}
 		
 	]
