@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/11/27/024726.html",
+	      	
+			"content_html": "<p>The cat has been asleep on my lap for the past hour and a half and I’ve gotten SO MUCH DONE</p>\n",
+			"date_published": "2018-11-26T20:47:26-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/26/024726.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/26/something-i-think.html",
+	      	
+			"content_html": "<p>Something I think about a lot is how some authors very clearly have a theme or themes that run through pretty much all of their published short stories and novels. I find it especially relaxing to read them, because it instantly feels familiar even if it’s an entirely new world.</p>\n",
+			"date_published": "2018-11-26T08:15:30-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/26/something-i-think.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/11/25/in-other-news.html",
+	      	
+			"content_html": "<p>In other news, there’s a <em>TON</em> of things that I need to do today and this week, but since I pretty much took the last three days off, I actually feel rested enough to tackle everything.</p>\n",
+			"date_published": "2018-11-25T09:21:31-06:00",
+			"url": "http://micro.alexclaman.com/2018/11/25/in-other-news.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/25/there-is-a.html",
 	      	
 			"content_html": "<p>There is a small child sitting directly behind me on this flight.</p>\n\n<p>Send help.</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>I have had SO MUCH coffee today</p>\n",
 			"date_published": "2018-11-03T14:59:27-05:00",
 			"url": "http://micro.alexclaman.com/2018/11/03/i-have-had.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/11/02/154439.html",
-	      	
-			"content_html": "<p>Today is a good day.</p>\n",
-			"date_published": "2018-11-02T10:44:39-05:00",
-			"url": "http://micro.alexclaman.com/2018/11/02/154439.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/30/colors.html",
-	      	
-			"content_html": "<p>Colors</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/8925096346.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-30T07:53:47-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/30/colors.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/10/29/i-am-currently.html",
-	      	
-			"content_html": "<p>I am currently attempting to figure out if I can fit a 700-page book into my four days of Thanksgiving vacation, while still having plenty of time to spend with my family…there’s a decent chance that it could work</p>\n",
-			"date_published": "2018-10-29T12:41:16-05:00",
-			"url": "http://micro.alexclaman.com/2018/10/29/i-am-currently.html"
 		}
 		
 	]
