@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/12/06/i-havent-done.html",
+	      	
+			"content_text": "I haven’t done any studying for my final on Monday,...",
+			"date_published": "2018-12-06T16:39:49-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/06/i-havent-done.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/12/06/from-the-beginning.html",
+	      	
+			"content_text": "From the beginning of an academic book I found\n\n\n",
+			"date_published": "2018-12-06T12:55:21-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/06/from-the-beginning.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/12/03/ive-managed-to.html",
+	      	
+			"content_text": "I’ve managed to get about 9 hours of sleep the...",
+			"date_published": "2018-12-03T10:41:19-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/03/ive-managed-to.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/28/i-cant-tell.html",
 	      	
 			"content_text": "I can’t tell if I’m vaguely sad because I’m tired...",
