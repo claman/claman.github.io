@@ -7,6 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/12/06/from-the-beginning.html",
+			
+			"content_text": "<p>From the beginning of an academic book I found</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/46fcf786a8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-06T12:55:21-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/06/from-the-beginning.html",
+			"image": "http://micro.alexclaman.com/uploads/2018/46fcf786a8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.alexclaman.com/uploads/2018/46fcf786a8.jpg"
+			}
+		},
+		{
 			"id": "http://aclaman.micro.blog/2018/11/27/shoutout-to-this.html",
 			
 			"content_text": "<p>Shoutout to this conference’s registration page for being gender-inclusive</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/a8e225ae77.jpg\" width=\"132\" height=\"368\" /></p>\n",
