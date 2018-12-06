@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/12/06/i-havent-done.html",
+	      	
+			"content_html": "<p>I haven’t done any studying for my final on Monday, but I <em>did</em> listen to a lot of podcast episodes, scan some book chapters, organize and return some borrowed academic books, and drink lots of tea.</p>\n",
+			"date_published": "2018-12-06T16:39:49-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/06/i-havent-done.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/12/06/from-the-beginning.html",
+	      	
+			"content_html": "<p>From the beginning of an academic book I found</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/46fcf786a8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-06T12:55:21-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/06/from-the-beginning.html"
+		},
+		
+		{
+			"id": "http://aclaman.micro.blog/2018/12/03/ive-managed-to.html",
+	      	
+			"content_html": "<p>I’ve managed to get about 9 hours of sleep the last two nights, and it’s honestly amazing how much brighter the world appears.</p>\n",
+			"date_published": "2018-12-03T10:41:19-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/03/ive-managed-to.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/11/28/i-cant-tell.html",
 	      	
 			"content_html": "<p>I can’t tell if I’m vaguely sad <em>because</em> I’m tired or if I’m just vaguely sad <em>and</em> tired.</p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>Doing my best to avoid the news today (I did vote though!)</p>\n",
 			"date_published": "2018-11-06T09:19:23-06:00",
 			"url": "http://micro.alexclaman.com/2018/11/06/doing-my-best.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/11/06/this-is-the.html",
-	      	
-			"content_html": "<p>This is the second night in a row that I’ve sat down to do some work, and had my roommate’s cat jump onto my lap and curl up, purring quietly.</p>\n\n<p>I am in no way complaining about this turn of events, merely reporting the facts. (Plus the cat makes for a good study partner).</p>\n",
-			"date_published": "2018-11-05T19:52:39-06:00",
-			"url": "http://micro.alexclaman.com/2018/11/05/this-is-the.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/11/05/193854.html",
-	      	
-			"content_html": "<p>Intriguing: <a href=\"https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/\">www.theatlantic.com/technolog…</a></p>\n",
-			"date_published": "2018-11-05T13:38:54-06:00",
-			"url": "http://micro.alexclaman.com/2018/11/05/193854.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/11/04/125346.html",
-	      	
-			"content_html": "<p>Time to start Season 2 of Limetown!</p>\n",
-			"date_published": "2018-11-04T06:53:46-06:00",
-			"url": "http://micro.alexclaman.com/2018/11/04/125346.html"
 		}
 		
 	]
