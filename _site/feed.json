@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/12/07/234606.html",
+	      	
+			"content_html": "<p>In other news, there is a minor chance of maybe a half inch of snow tomorrow morning, so the university has already rescheduled tomorrow morning’s finals. The Midwest, this is not.</p>\n",
+			"date_published": "2018-12-07T17:46:06-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/07/234606.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/12/06/i-havent-done.html",
 	      	
 			"content_html": "<p>I haven’t done any studying for my final on Monday, but I <em>did</em> listen to a lot of podcast episodes, scan some book chapters, organize and return some borrowed academic books, and drink lots of tea.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Monday.</p>\n\n<p>That is all.</p>\n",
 			"date_published": "2018-11-12T12:28:44-06:00",
 			"url": "http://micro.alexclaman.com/2018/11/12/monday-that-is.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/11/06/doing-my-best.html",
-	      	
-			"content_html": "<p>Doing my best to avoid the news today (I did vote though!)</p>\n",
-			"date_published": "2018-11-06T09:19:23-06:00",
-			"url": "http://micro.alexclaman.com/2018/11/06/doing-my-best.html"
 		}
 		
 	]
