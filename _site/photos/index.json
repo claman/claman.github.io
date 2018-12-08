@@ -7,6 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/12/08/i-stand-corrected.html",
+			
+			"content_text": "<p>I stand corrected; this is an actual storm.</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/819b0bb236.jpg\" width=\"600\" height=\"599\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.alexclaman.com/uploads/2018/aebf400d04.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.alexclaman.com/uploads/2018/38f7c92981.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-08T09:14:37-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/08/i-stand-corrected.html",
+			"image": "http://micro.alexclaman.com/uploads/2018/38f7c92981.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://micro.alexclaman.com/uploads/2018/38f7c92981.jpg"
+			}
+		},
+		{
 			"id": "http://aclaman.micro.blog/2018/12/06/from-the-beginning.html",
 			
 			"content_text": "<p>From the beginning of an academic book I found</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/46fcf786a8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
