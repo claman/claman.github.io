@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://aclaman.micro.blog/2018/12/08/i-stand-corrected.html",
+	      	
+			"content_html": "<p>I stand corrected; this is an actual storm.</p>\n\n<p><img src=\"http://micro.alexclaman.com/uploads/2018/819b0bb236.jpg\" width=\"600\" height=\"599\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.alexclaman.com/uploads/2018/aebf400d04.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.alexclaman.com/uploads/2018/38f7c92981.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-08T09:14:37-06:00",
+			"url": "http://micro.alexclaman.com/2018/12/08/i-stand-corrected.html"
+		},
+		
+		{
 			"id": "http://aclaman.micro.blog/2018/12/07/234606.html",
 	      	
 			"content_html": "<p>In other news, there is a minor chance of maybe a half inch of snow tomorrow morning, so the university has already rescheduled tomorrow morning’s finals. The Midwest, this is not.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>The cat has fallen asleep on my lap again, I’m feeling good about tomorrow’s test, and I’m on track to get enough sleep tonight. Life is pretty good.</p>\n",
 			"date_published": "2018-11-12T18:01:12-06:00",
 			"url": "http://micro.alexclaman.com/2018/11/12/the-cat-has.html"
-		},
-		
-		{
-			"id": "http://aclaman.micro.blog/2018/11/12/monday-that-is.html",
-	      	
-			"content_html": "<p>Monday.</p>\n\n<p>That is all.</p>\n",
-			"date_published": "2018-11-12T12:28:44-06:00",
-			"url": "http://micro.alexclaman.com/2018/11/12/monday-that-is.html"
 		}
 		
 	]
